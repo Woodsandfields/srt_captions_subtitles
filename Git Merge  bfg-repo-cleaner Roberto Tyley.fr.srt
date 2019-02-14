@@ -1,0 +1,593 @@
+1
+00:00:00,472 --> 00:00:04,675
+[GIT MERGE 2013]
+
+2
+00:00:04,675 --> 00:00:06,879
+Bonjour, je m'appelle Roberto Tyley.
+
+3
+00:00:06,879 --> 00:00:08,813
+Je travaille au Guardian au Royaume-Uni
+
+4
+00:00:08,813 --> 00:00:12,340
+et j'ai codé un outil nommé le BFG
+
+5
+00:00:12,340 --> 00:00:14,625
+pour remplacer, en plus
+simple et en plus rapide,
+
+6
+00:00:14,625 --> 00:00:16,004
+git-filter-branch.
+
+7
+00:00:16,004 --> 00:00:18,341
+Concrètement, il s'agit de 
+s'attaquer au problème
+
+8
+00:00:18,341 --> 00:00:20,604
+des conneries qui polluent 
+votre historique git
+
+9
+00:00:20,604 --> 00:00:23,161
+sans que vous arriviez
+à vous en débarrasser
+
+10
+00:00:23,161 --> 00:00:24,592
+par un simple "rebase"
+
+11
+00:00:24,592 --> 00:00:27,591
+car ça traine dans tous les
+coins de votre projet.
+
+12
+00:00:27,591 --> 00:00:30,106
+Donc, c'est plus rapide et plus simple
+
+13
+00:00:30,106 --> 00:00:31,104
+que git-filter-branch
+
+14
+00:00:31,104 --> 00:00:32,870
+pour éliminer les trucs indésirables.
+
+15
+00:00:32,870 --> 00:00:34,538
+Par exemple, de gros fichiers qui
+
+16
+00:00:34,538 --> 00:00:37,757
+peuvent rendre votre repo
+vraiment trop lourd à télécharger.
+
+17
+00:00:37,757 --> 00:00:39,578
+Ou des mots de passe.
+
+18
+00:00:39,578 --> 00:00:40,960
+Peut-être voulez-vous publier
+
+19
+00:00:40,960 --> 00:00:43,164
+votre repository/dépôt
+chez un hébergeur public
+
+20
+00:00:43,164 --> 00:00:45,431
+sans que trainent vos
+anciens mots de passe,
+
+21
+00:00:45,431 --> 00:00:47,355
+même si, en théorie, ils ont changé.
+
+22
+00:00:47,355 --> 00:00:48,598
+Bon, on passe sur le VGA ?
+
+23
+00:00:48,598 --> 00:00:50,031
+Cool. On le fait à l'ancienne.
+
+24
+00:00:50,031 --> 00:00:52,809
+C'est pour ça que je voudrais un ThinkPad,
+vous savez,
+
+25
+00:00:52,809 --> 00:00:55,939
+parce qu'ils sont encore équipés 
+de sorties VGA.
+
+26
+00:01:00,598 --> 00:01:03,769
+Qui a déjà vu la vidéo de BFG ?
+
+27
+00:01:03,769 --> 00:01:04,776
+Personne ?
+
+28
+00:01:04,776 --> 00:01:07,289
+Si, quelques personnes au fond.
+
+29
+00:01:07,289 --> 00:01:09,611
+Comme je ne vois pas tout
+le monde lever la main,
+
+30
+00:01:09,611 --> 00:01:12,317
+je vous montre la vidéo.
+
+31
+00:01:17,012 --> 00:01:18,885
+L'un des arguments essentiels
+
+32
+00:01:18,885 --> 00:01:21,426
+est que c'est plus rapide.
+
+33
+00:01:24,565 --> 00:01:27,765
+Et, donc, pour le prouver, [rire]
+
+34
+00:01:27,765 --> 00:01:30,628
+je l'ai installé sur un Raspberry Pi,
+
+35
+00:01:30,628 --> 00:01:34,299
+qui est un ordinateur qui coûte 25£ (30€),
+
+36
+00:01:34,299 --> 00:01:38,042
+un ordinateur vraiment pas cher,
+j'en ai amené un ici.
+
+37
+00:01:39,910 --> 00:01:41,285
+Vous pouvez voir que
+
+38
+00:01:41,285 --> 00:01:43,638
+la commande BFG est largement plus simple
+
+39
+00:01:43,648 --> 00:01:47,293
+et voici donc cet ordinateur
+minimaliste tournant à 700 MHz
+
+40
+00:01:47,293 --> 00:01:50,123
+côte-à-côte avec un bon gros Mac
+doté de 4 unités de calcul,
+
+41
+00:01:50,123 --> 00:01:52,431
+et qui est, comme vous savez,
+un chouette ordi.
+
+42
+00:01:52,431 --> 00:01:54,181
+Donc ils se lancent et, regardez,
+
+43
+00:01:54,181 --> 00:01:56,588
+filter-branch prend
+la tête de la course,
+
+44
+00:01:56,588 --> 00:01:58,628
+ça en jette.
+
+45
+00:01:58,628 --> 00:02:01,126
+Pendant ce temps, le BFG
+met en place ses procédures,
+
+46
+00:02:01,126 --> 00:02:02,791
+il y a là un petit écran qui montre
+
+47
+00:02:02,791 --> 00:02:04,356
+ce que fait le Raspberry Pi.
+
+48
+00:02:04,356 --> 00:02:05,936
+Ah, mais, attendez, le BFG
+
+49
+00:02:05,936 --> 00:02:07,406
+rattrape son retard
+
+50
+00:02:07,406 --> 00:02:09,204
+malgré son hardware !
+
+51
+00:02:09,204 --> 00:02:10,204
+Et...
+
+52
+00:02:10,204 --> 00:02:12,207
+alors que nous accélérons encore,
+
+53
+00:02:12,207 --> 00:02:13,963
+on peut constater, oh là là, BFG
+
+54
+00:02:13,963 --> 00:02:15,614
+passe carrément en tête
+
+55
+00:02:15,614 --> 00:02:18,885
+et il en est à 41 000 commits, et...
+
+56
+00:02:18,885 --> 00:02:22,463
+[souffle bruyamment] il met
+le reste à jour maintenant,
+
+57
+00:02:22,463 --> 00:02:24,353
+c'est la partie la plus lente.
+
+58
+00:02:24,353 --> 00:02:28,018
+Voilà, ça a pris 25 minutes,
+sur ce hardware tellement dérisoire....
+
+59
+00:02:28,018 --> 00:02:30,431
+Et voici les résultats finaux :
+
+60
+00:02:30,431 --> 00:02:32,955
+Il a fallu 45 minutes au Mac.
+
+61
+00:02:32,955 --> 00:02:35,262
+BFG a pris 25 minutes...
+sur son Raspberry Pi.
+
+62
+00:02:35,262 --> 00:02:37,084
+Et si vous avez du matériel classique,
+
+63
+00:02:37,084 --> 00:02:37,963
+sans doute pas ça,
+
+64
+00:02:37,963 --> 00:02:39,878
+ça prendra environ une minute.
+
+65
+00:02:39,878 --> 00:02:42,138
+Et, bon, si vous avez
+un repository gigantesque,
+
+66
+00:02:42,138 --> 00:02:44,185
+ça peut vous prendre toute une nuit,
+
+67
+00:02:44,185 --> 00:02:45,950
+surtout si c'est une
+tâche complexe.
+
+68
+00:02:45,950 --> 00:02:47,576
+Je vais maintenant vous montrer
+
+69
+00:02:47,587 --> 00:02:50,557
+quelques trucs que BFG rend faciles.
+
+70
+00:02:54,963 --> 00:02:56,974
+Hmm, non, pas ça...
+
+71
+00:03:11,998 --> 00:03:16,474
+Tant pis, bon... supprimer un fichier...
+
+72
+00:03:16,474 --> 00:03:18,742
+voici comment vous le faites avec BFG,
+
+73
+00:03:18,742 --> 00:03:20,070
+supprimer le bon fichier.
+
+74
+00:03:20,070 --> 00:03:21,318
+Avec git-filter-branch,
+
+75
+00:03:21,318 --> 00:03:22,622
+c'est une commande basique.
+
+76
+00:03:22,622 --> 00:03:24,205
+Je veux dire, je sais qu'avec
+
+77
+00:03:24,205 --> 00:03:26,566
+toutes ses options, 
+c'est un outil puissant,
+
+78
+00:03:26,566 --> 00:03:29,970
+mais la tâche pour laquelle
+beaucoup de gens pensent à
+
+79
+00:03:29,982 --> 00:03:31,564
+se servir de git-filter-branch,
+
+80
+00:03:31,564 --> 00:03:33,477
+c'est pour nettoyer l'historique,
+
+81
+00:03:33,477 --> 00:03:35,483
+mais un truc comme ici est plus facile.
+
+82
+00:03:35,483 --> 00:03:37,102
+Ça détruit juste toutes les copies
+
+83
+00:03:37,102 --> 00:03:38,602
+trouvées avec ce nom de fichier
+
+84
+00:03:38,602 --> 00:03:41,378
+et on peut toujours utiliser
+aussi des globs et regex, etc.
+
+85
+00:03:41,378 --> 00:03:44,842
+Mais en imaginant qu'on a
+des fichiers volumineux
+
+86
+00:03:44,842 --> 00:03:46,407
+qui encombrent son repo,
+
+87
+00:03:46,407 --> 00:03:47,972
+voici comment on fait.
+
+88
+00:03:47,988 --> 00:03:50,176
+Et git-filter-branch n'est peut-être pas
+
+89
+00:03:50,176 --> 00:03:51,864
+l'outil le plus approprié ici,
+
+90
+00:03:51,864 --> 00:03:53,281
+je n'en suis pas sûr, mais je
+
+91
+00:03:53,281 --> 00:03:55,841
+n'ai jamais trouvé là comme solution
+
+92
+00:03:55,841 --> 00:03:58,470
+que des scripts indigestes
+bash, Python ou autre.
+
+93
+00:03:58,470 --> 00:04:00,974
+Ensuite... si vous voulez enlever
+
+94
+00:04:00,974 --> 00:04:05,018
+une série de mots de passe, mettez
+simplement ces mots de passe
+
+95
+00:04:05,018 --> 00:04:07,745
+dans votre fichier et faites-lui
+écumer le repo.
+
+96
+00:04:07,745 --> 00:04:09,397
+Ou vous pouvez utiliser un "sed"
+
+97
+00:04:09,397 --> 00:04:10,826
+dans git-filter-branch.
+
+98
+00:04:10,826 --> 00:04:12,479
+Donc, c'est juste plus facile,
+
+99
+00:04:12,479 --> 00:04:14,077
+avec quelques métacaractères
+
+100
+00:04:14,077 --> 00:04:16,058
+et substitutions éventuellement.
+
+101
+00:04:16,058 --> 00:04:18,089
+Vous êtes traité
+en alcoolique repenti,
+
+102
+00:04:18,089 --> 00:04:20,465
+vous êtes seul face à
+votre commit en cours,
+
+103
+00:04:20,465 --> 00:04:22,891
+d'accord ? C'est une sorte de principe
+
+104
+00:04:22,891 --> 00:04:24,465
+que vous êtes supposé connaître :
+
+105
+00:04:24,465 --> 00:04:26,563
+nettoyez vous-même votre
+historique en cours,
+
+106
+00:04:26,563 --> 00:04:27,943
+votre commit en cours, et moi
+
+107
+00:04:27,943 --> 00:04:29,851
+je m'occupe de nettoyer
+votre historique,
+
+108
+00:04:29,851 --> 00:04:31,240
+bref, de tout ce qui précède.
+
+109
+00:04:31,240 --> 00:04:32,435
+Mais avec BFG, disons que
+
+110
+00:04:32,435 --> 00:04:35,031
+vous voulez détruire des 
+mots de passe, BFG vous dit :
+
+111
+00:04:35,031 --> 00:04:38,188
+Attention, ces mots de passe sont aussi
+dans votre commit en cours,
+
+112
+00:04:38,188 --> 00:04:39,378
+vous devriez régler ça
+
+113
+00:04:39,378 --> 00:04:41,578
+avant de poursuivre,
+car je n'y toucherai pas.
+
+114
+00:04:41,578 --> 00:04:42,726
+Bref...
+
+115
+00:04:42,726 --> 00:04:44,714
+vous êtes un alcoolique repenti,
+
+116
+00:04:44,714 --> 00:04:46,493
+qui a fait des bêtises par le passé
+
+117
+00:04:46,493 --> 00:04:49,385
+mais maintenant, c'est fini.
+
+118
+00:04:49,385 --> 00:04:51,384
+Oh, et voici une jolie manœuvre :
+
+119
+00:04:51,384 --> 00:04:53,880
+vos messages de commit peuvent
+
+120
+00:04:53,880 --> 00:04:55,456
+mentionner d'autres commits
+
+121
+00:04:55,456 --> 00:04:59,025
+et BFG va alors gérer ces messages
+
+122
+00:04:59,025 --> 00:05:00,744
+si l'ID du commit aboutit à un truc
+
+123
+00:05:00,744 --> 00:05:03,063
+qu'il reconnaît et il va simplement dire :
+
+124
+00:05:03,063 --> 00:05:05,453
+Ah, c'était ce commit auparavant !
+
+125
+00:05:05,453 --> 00:05:07,271
+C'est, j'espère, une façon sympathique
+
+126
+00:05:07,271 --> 00:05:08,660
+de nettoyer votre historique.
+
+127
+00:05:08,660 --> 00:05:10,671
+Nous l'avons souvent utilisé au Guardian,
+
+128
+00:05:10,671 --> 00:05:12,720
+ça a servi aux gouvernements britanniques
+
+129
+00:05:12,720 --> 00:05:14,970
+sur certains de leurs repos,
+et en divers lieux.
+
+130
+00:05:14,970 --> 00:05:16,993
+Bref, c'est assez fiable.
+
+131
+00:05:16,993 --> 00:05:19,161
+C'est construit avec JGits,
+
+132
+00:05:19,161 --> 00:05:20,380
+c'est écrit en Scala,
+
+133
+00:05:20,380 --> 00:05:21,933
+donc pour vos propres scripts,
+
+134
+00:05:21,933 --> 00:05:23,883
+n'importe quel langage JVM fera l'affaire
+
+135
+00:05:23,883 --> 00:05:26,328
+s'il y en a un que vous préférez. 
+[rires]
+
+136
+00:05:26,328 --> 00:05:28,857
+Bon, c'est fini !
+
+137
+00:05:28,857 --> 00:05:30,258
+Merci à vous !
+
+138
+00:05:30,258 --> 00:05:32,764
+[applaudissements]
+
+139
+00:05:32,764 --> 00:05:37,345
+[GIT MERGE 2013]
