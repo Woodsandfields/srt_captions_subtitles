@@ -4,8 +4,8 @@
 
 2
 00:00:06,272 --> 00:00:10,501
-On ne connaît bien une planète que par 
-l'étoile autour de laquelle elle gravite.
+Pour bien connaître une planète,
+il faut connaître son étoile.
 
 3
 00:00:12,197 --> 00:00:16,687
@@ -14,8 +14,8 @@ Le téléscope spatial Kepler nous a aidé
 
 4
 00:00:17,823 --> 00:00:21,973
-Cadeau supplémentaire, il nous a
-permis de comprendre les étoiles
+Cadeau supplémentaire,
+il nous a permis de comprendre les étoiles
 
 5
 00:00:22,750 --> 00:00:26,470
@@ -36,12 +36,12 @@ sont strictement identiques
 à celles qu'il nous faut
 
 9
-00:00:36,210 --> 00:00:39,600
+00:00:36,210 --> 00:00:39,490
 pour exceller dans l'étude des étoiles
 sur certains aspects.
 
 10
-00:00:39,600 --> 00:00:41,570
+00:00:39,490 --> 00:00:41,570
 Et la caractéristique de Kepler
 
 11
@@ -97,12 +97,12 @@ elle oscillle,
 assez à la manière d'une cloche.
 
 22
-00:01:18,080 --> 00:01:21,570
+00:01:18,080 --> 00:01:21,970
 Elle oscille à sa fréquence de résonance,
 et c'est un "tremblement de Terre".
 
 23
-00:01:21,988 --> 00:01:25,228
+00:01:21,970 --> 00:01:25,228
 Les étoiles ressemblent
 aux planètes, en plus raréfié,
 
