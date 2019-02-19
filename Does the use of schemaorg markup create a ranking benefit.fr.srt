@@ -1,130 +1,95 @@
 1
 00:00:00,005 --> 00:00:03,975
-La question du jour nous vient
-de Quincy à Rotterdam.
+La question du jour
+nous vient de Quincy à Rotterdam.
 
 2
-00:00:03,975 --> 00:00:07,001
-Quincy demande : "je sais que 
-les snippets enrichis peuvent
+00:00:03,975 --> 00:00:06,601
+Quincy demande : 
+« je sais que les snippets enrichis
 
 3
-00:00:07,001 --> 00:00:09,014
-améliorer le CTR, bref le taux de clics,
+00:00:06,601 --> 00:00:09,994
+peuvent améliorer le CTR,
+bref le taux de clics, donc ma SERP.
 
 4
-00:00:09,014 --> 00:00:10,053
-donc ma SERP.
+00:00:10,003 --> 00:00:16,004
+Mais Schema.org peut-il aider
+à ma position directe sur la SERP ? »
 
 5
-00:00:10,053 --> 00:00:13,094
-Mais Schema.org peut-il aider
-à ma position directe
-
-6
-00:00:13,094 --> 00:00:16,004
-sur la SERP ?"
-
-7
-00:00:16,004 --> 00:00:20,003
+00:00:16,004 --> 00:00:19,633
 Bon, d'une part,
 je n'y compterais pas vraiment.
 
-8
-00:00:20,003 --> 00:00:22,063
-Simplement utiliser Schema.org
-n'entraîne pas nécessairement
+6
+00:00:19,633 --> 00:00:24,203
+Utiliser Schema.org n'entraîne pas
+nécessairement un meilleur classement.
 
-9
-00:00:22,063 --> 00:00:24,063
-un meilleur classement.
-
-10
-00:00:24,063 --> 00:00:26,022
+7
+00:00:24,203 --> 00:00:26,022
 Mais dans certains cas basiques, si.
 
+8
+00:00:26,022 --> 00:00:31,699
+Par exemple, si vous cherchez lasagne
+puis cliquez à gauche sur les recettes,
+
+9
+00:00:31,699 --> 00:00:34,972
+dans ce cas, utiliser
+un balisage Schema.org peut aider
+
+10
+00:00:34,972 --> 00:00:38,616
+car alors vous avez
+plus de chances d'apparaître.
+
 11
-00:00:26,022 --> 00:00:29,036
-Par exemple, si vous cherchez "lasagne"
-puis allez à gauche
+00:00:38,616 --> 00:00:42,754
+Donc, dans certains cas,
+utiliser le balisage Schema.org est utile.
 
 12
-00:00:29,036 --> 00:00:32,369
-et cliquez sur les recettes, là,
+00:00:42,754 --> 00:00:46,498
+J'éviterais d'y compter si je cherche
+un coup de boost au classement.
 
 13
-00:00:32,369 --> 00:00:35,032
-utiliser un balisage Schema.org peut aider
-
-14
-00:00:35,032 --> 00:00:37,006
-car alors vous avez plus de chances
-
-15
-00:00:37,006 --> 00:00:38,079
-d'apparaître.
-
-16
-00:00:38,079 --> 00:00:40,514
-Donc, dans certains cas, l'utilisation
-
-17
-00:00:40,514 --> 00:00:42,147
-du balisage Schema.org va servir.
-
-18
-00:00:42,147 --> 00:00:45,038
-J'éviterais d'y compter
-si je cherche un coup de boost
-
-19
-00:00:45,038 --> 00:00:46,005
-pour mon classement.
-
-20
-00:00:46,005 --> 00:00:49,003
+00:00:46,498 --> 00:00:49,123
 Mais il ne faut pas y renoncer.
 
-21
-00:00:49,003 --> 00:00:53,032
-Par exemple,
-on l'a vu, ça fait sens
+14
+00:00:49,123 --> 00:00:55,322
+Par exemple, on l'a vu,
+ça fait sens pour des sujets spécifiques.
 
-22
-00:00:53,032 --> 00:00:55,053
-pour certains sujets spécifiques.
-
-23
-00:00:55,053 --> 00:00:59,012
+15
+00:00:55,322 --> 00:01:02,212
 Mais un simple balisage Schema.org
+n'améliore pas automatiquement votre site.
 
-24
-00:00:59,012 --> 00:01:01,075
-n'améliore pas automatiquement
-
-25
-00:01:01,075 --> 00:01:02,007
-votre site.
-
-26
-00:01:02,007 --> 00:01:05,019
-Je ne m'appuierais donc pas dessus
+16
+00:01:02,212 --> 00:01:04,949
+Je ne compterais donc pas dessus
 pour monter en classement
 
-27
-00:01:05,019 --> 00:01:07,805
-bien que ça reste une bonne idée
-de structurer et étoffer le balisage
+17
+00:01:04,949 --> 00:01:06,595
+mais ça reste une bonne idée
 
-28
-00:01:07,805 --> 00:01:10,081
-de votre contenu
-afin que les pinailleurs
+18
+00:01:06,595 --> 00:01:09,551
+de structurer et étoffer
+le balisage de votre contenu
 
-29
-00:01:10,081 --> 00:01:13,043
+19
+00:01:09,551 --> 00:01:12,893
+afin que les pinailleurs 
 sachent trouver votre site plus facilement
 
-30
-00:01:13,043 --> 00:01:14,076
+20
+00:01:12,893 --> 00:01:14,076
 en fouillant bien.
