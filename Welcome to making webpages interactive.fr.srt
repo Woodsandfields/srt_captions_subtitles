@@ -5,8 +5,8 @@ Dans ce cours, vous allez apprendre
 
 2
 00:00:05,157 --> 00:00:08,902
-D'abord en travaillant sur de
-simples pages web en HTML/CSS,
+D'abord en travaillant sur
+de simples pages web en HTML/CSS,
 
 3
 00:00:08,902 --> 00:00:11,937
@@ -15,8 +15,8 @@ ensuite avec JavaScript :
 
 4
 00:00:11,937 --> 00:00:15,832
-par exemple pour un jeu
-à base de mots, un diaporama,
+pour un jeu à base de mots
+ou un diaporama, par exemple,
 
 5
 00:00:15,832 --> 00:00:19,598
@@ -58,19 +58,18 @@ Mais de nos jours, on utilise JavaScript
 dans plein d'environnements différents :
 
 13
-00:00:43,015 --> 00:00:45,686
-pour aider en arrière-plan 
-les serveurs à charger
+00:00:43,015 --> 00:00:45,556
+pour aider en arrière-plan les serveurs
 
 14
-00:00:45,686 --> 00:00:49,364
-les pages web et stocker
-les données des utilisateurs ;
+00:00:45,556 --> 00:00:49,364
+à charger les pages web 
+et stocker les données des utilisateurs ;
 
 15
 00:00:49,364 --> 00:00:52,640
-ou pour programmer
-de la manipulation d'images ;
+ou pour écrire un programme
+de manipulation d'images ;
 
 16
 00:00:52,640 --> 00:00:56,398
@@ -120,8 +119,8 @@ rien que pour le dessin et l'animation,
 
 26
 00:01:24,449 --> 00:01:27,841
-comme "fill", "ellipse", 
-"mouseClicked", et "text".
+comme fill, ellipse, 
+mouseClicked, et text.
 
 27
 00:01:27,841 --> 00:01:29,693
@@ -129,13 +128,13 @@ Un environnement de page web
 
 28
 00:01:29,693 --> 00:01:33,788
-ajoute des fonctionnalités pour
-l'interactivité des pages,
+ajoute des fonctionnalités
+pour l'interactivité des pages,
 
 29
 00:01:33,788 --> 00:01:39,534
-comme "getElementByld",
-"setInterval", ou "AddEventListener".
+comme getElementByld,
+setInterval, ou AddEventListener.
 
 30
 00:01:39,534 --> 00:01:43,979
@@ -149,5 +148,5 @@ pour vos pages web
 
 32
 00:01:46,424 --> 00:01:50,137
-pour produire grâce à elles des 
-expériences interactives épatantes.
+pour produire grâce à elles
+des expériences interactives épatantes.

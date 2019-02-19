@@ -1,56 +1,60 @@
 1
+00:00:00,470 --> 00:00:01,470
+♪ (music) ♪
+
+2
 00:00:01,940 --> 00:00:03,992
 Une protection améliorée contre le suivi
 
-2
-00:00:04,242 --> 00:00:05,937
+3
+00:00:04,242 --> 00:00:05,962
 Maîtrisez votre vie privée en ligne
 
-3
-00:00:05,972 --> 00:00:07,733
+4
+00:00:05,962 --> 00:00:07,733
 avec plus d'options pour la protéger.
 
-4
+5
 00:00:08,699 --> 00:00:11,222
 Sachez où vous en êtes
 quand vous visitez une page web
 
-5
-00:00:11,222 --> 00:00:14,291
-en ayant une vue sur tous les
-cookies de suivi des parties tiers.
-
 6
-00:00:14,471 --> 00:00:17,090
-Choisissez votre niveau de protection dans
+00:00:11,222 --> 00:00:14,291
+en visualisant tous les cookies de suivi
+des parties tiers.
 
 7
-00:00:17,100 --> 00:00:19,440
-la fenêtre d'information sur la page.
+00:00:14,471 --> 00:00:17,060
+Choisissez votre niveau de protection
 
 8
-00:00:19,670 --> 00:00:21,990
-Standard : c'est l'option par défaut
-de Firefox.
+00:00:17,060 --> 00:00:19,440
+dans la fenêtre d'information sur la page.
 
 9
-00:00:22,260 --> 00:00:25,200
-Strict : plus de cookies 
-sont bannis.
+00:00:19,670 --> 00:00:21,990
+Standard :
+c'est l'option par défaut de Firefox.
 
 10
-00:00:25,304 --> 00:00:28,154
-Personnalisé : ajustez vos
-paramètres comme vous souhaitez.
+00:00:22,260 --> 00:00:25,200
+Strict :
+ce mode rejette plus de cookies.
 
 11
+00:00:25,304 --> 00:00:28,154
+Personnalisé :
+ajustez vos paramètres selon votre envie.
+
+12
 00:00:28,299 --> 00:00:30,239
 Votre vie privée est plus qu'un contrat.
 
-12
+13
 00:00:30,549 --> 00:00:31,891
 C'est un droit.
 
-13
+14
 00:00:32,441 --> 00:00:35,581
 Firefox se bat pour vous.
