@@ -4,28 +4,28 @@ Allons aujourd'hui à Zanzibar,
 au large des côtes de Tanzanie,
 
 2
-00:00:09,228 --> 00:00:11,938
+00:00:09,228 --> 00:00:11,898
 ensemble avec une floppée
 de scientifiques de l'Académie.
 
 3
-00:00:11,938 --> 00:00:13,408
+00:00:11,898 --> 00:00:13,408
 Et avec Cristina Castillo,
 
 4
-00:00:13,408 --> 00:00:17,360
+00:00:13,408 --> 00:00:17,000
 qui s'assure du bon acheminement
 de l'équipe et du matériel !
 
 5
-00:00:17,360 --> 00:00:21,880
-Une large partie de ma mission
+00:00:17,000 --> 00:00:21,880
+>> Une large part de ma mission
 revient à planifier l'expédition,
 
 6
 00:00:21,880 --> 00:00:25,870
-et parfois ça implique l'acheminement
-de beaucoup de matériel
+et parfois ça implique
+l'acheminement de beaucoup de matériel
 
 7
 00:00:25,870 --> 00:00:29,530
@@ -43,24 +43,24 @@ destination fascinante.
 de transit pour seulement y arriver.
 
 10
-00:00:37,450 --> 00:00:40,530
+00:00:37,450 --> 00:00:40,490
 Aussi, la première chose que 
 nous avons faite en arrivant,
 
 11
-00:00:40,530 --> 00:00:43,263
-ça a été de déballer
-palmes et tubas et aller dans l'eau.
+00:00:40,490 --> 00:00:43,263
+ça a été de déballer palmes et tubas
+pour aller dans l'eau.
 
 12
 00:00:43,263 --> 00:00:46,603
-Racontez-nous un peu de vos plus 
-grandes surprises dans ce voyage ?
+>> Racontez-nous un peu de vos
+plus grandes surprises dans ce voyage ?
 
 13
 00:00:46,603 --> 00:00:50,828
-Pour moi, je pense, ça a été
-de réaliser simplement
+>> Pour moi, je pense,
+ça a été de réaliser simplement
 
 14
 00:00:50,828 --> 00:00:54,168
@@ -81,12 +81,12 @@ on peut se retrouver surpris !
 
 18
 00:01:01,071 --> 00:01:04,731
-Comme avec les dollars des sables
+>> Comme avec les dollars des sables
 à rosace ou les nudibranches.
 
 19
 00:01:04,731 --> 00:01:08,081
-Les dollars des sables à rosace
+>> Les dollars des sables à rosace
 sont des animaux de mer
 
 20
@@ -95,8 +95,7 @@ apparentés aux dollars des sables
 
 21
 00:01:09,821 --> 00:01:11,991
-ainsi qu'aux ousins
-et étoiles de mer.
+ainsi qu'aux ousins et aux étoiles de mer.
 
 22
 00:01:11,991 --> 00:01:15,047
@@ -110,12 +109,12 @@ Ils sont de votre famille.
 
 24
 00:01:17,616 --> 00:01:19,306
-Vous voyez la ressemblance ?
+>> Vous voyez la ressemblance ?
 
 25
 00:01:19,436 --> 00:01:22,100
-Les nudibranches sont un 
-type de limace de mers.
+>> Les nudibranches sont
+un type de limace de mers.
 
 26
 00:01:22,100 --> 00:01:24,010
@@ -123,18 +122,18 @@ La première fois, j'ai pensé :
 
 27
 00:01:24,010 --> 00:01:27,013
-Oh, elles sont trop bizarres et
-géniales pour que je les étudie,
+Oh, ils sont trop bizarres et géniaux
+pour que je les étudie,
 
 28
 00:01:27,013 --> 00:01:30,355
-je dois me rabattre sur du
-réalisable, allez, des poissons !
+je dois me rabattre
+sur du réalisable, allez, des poissons !
 
 29
 00:01:30,355 --> 00:01:34,500
-Concrètement, je m'intéresse aux
-nudibranches qui vivent sur les coraux,
+Concrètement, je m'intéresse
+aux nudibranches vivant sur les coraux,
 
 30
 00:01:34,500 --> 00:01:37,405
@@ -156,7 +155,7 @@ pour ressembler à du corail.
 
 34
 00:01:44,560 --> 00:01:48,440
-Bref, "on est ce qu'on mange",
+Le proverbe « on est ce qu'on mange »,
 ils l'ont pris au sens littéral !
 
 35
@@ -175,8 +174,8 @@ Or, l'isolement est un facteur clé menant
 
 38
 00:01:59,770 --> 00:02:03,060
-Et c'est ce qu'Allison veut comprendre
-en étudiant les nudibranches :
+>> C'est ce qu'Allison veut comprendre
+par l'étude des nudibranches :
 
 39
 00:02:03,060 --> 00:02:06,876
@@ -189,7 +188,7 @@ Alors, Allison, qu'avez-vous découvert ?
 
 41
 00:02:09,725 --> 00:02:12,725
-Je suis particulièrement
+>> Je suis particulièrement
 contente de ce spécimen.
 
 42
@@ -242,7 +241,7 @@ et les protéger par tous les moyens.
 
 52
 00:02:45,386 --> 00:02:49,676
-Je n'étais pas sûre qu'il y ait des 
+>> Je n'étais pas sûre qu'il y ait des 
 dollars des sables, à rosace ou pas,
 
 53
@@ -251,8 +250,8 @@ dollars des sables, à rosace ou pas,
 
 54
 00:02:51,007 --> 00:02:55,037
-Frances est donc allée en reconnaissance
-lorsqu'ils sont allés dans l'ile.
+>> Frances est partie en reconnaissance
+après son arrivée dans l'ile.
 
 55
 00:02:55,037 --> 00:02:56,967
@@ -260,24 +259,24 @@ Elle a visité un magasin de plongée.
 
 56
 00:02:56,967 --> 00:02:59,637
-Nous leur avons montré la photo
-d'un dollar des sables,
+>> Nous leur avons montré
+une photo de dollar des sables,
 
 57
-00:02:59,637 --> 00:03:01,097
+00:02:59,637 --> 00:03:01,187
 mais ils n'en avaient jamais vu.
 
 58
-00:03:01,127 --> 00:03:02,817
+00:03:01,187 --> 00:03:02,817
 C'était un peu déroutant.
 
 59
 00:03:02,817 --> 00:03:05,537
-Ces animaux s'enterrent dans le sable
+>> Ces animaux s'enterrent dans le sable
 
 60
 00:03:05,537 --> 00:03:07,893
-et, du coup, ils sont difficiles à repérer.
+et, du coup, sont difficiles à repérer.
 
 61
 00:03:07,893 --> 00:03:10,468
@@ -285,18 +284,18 @@ Mais Frances a pu remonter leur trace.
 
 62
 00:03:10,468 --> 00:03:13,918
-On a fini par trouver une espèce
+>> On a fini par trouver une espèce
 appartenant aux dollars des sables
 
 63
 00:03:13,918 --> 00:03:16,484
-et une autre qui était un
-dollar des sables à rosace.
+et une autre qui était
+un dollar des sables à rosace.
 
 64
 00:03:16,484 --> 00:03:19,154
-Sur les spécimens dans
-les collections de l'Académie,
+Sur les spécimens
+des collections de l'Académie,
 
 65
 00:03:19,154 --> 00:03:23,184
@@ -310,16 +309,16 @@ la taille de leurs oeufs.
 
 67
 00:03:25,904 --> 00:03:28,487
-Plus l'œuf est gros,
+>> Plus l'œuf est gros,
 plus grosse est la larve.
 
 68
-00:03:28,487 --> 00:03:31,797
-Ça signifie que la larve se fixera
-plus vite pour devenir adulte.
+00:03:28,487 --> 00:03:31,557
+Ça signifie que la larve
+se fixera plus vite pour devenir adulte.
 
 69
-00:03:31,797 --> 00:03:33,967
+00:03:31,557 --> 00:03:33,967
 L'inverse est aussi vrai.
 
 70
@@ -337,21 +336,21 @@ s'arrêtant souvent beaucoup plus loin
 de leur point de départ.
 
 73
-00:03:41,794 --> 00:03:43,614
+00:03:41,794 --> 00:03:43,304
 Selon les recherches d'Allison,
 
 74
-00:03:43,614 --> 00:03:46,315
+00:03:43,304 --> 00:03:46,145
 cette fixation plus ou moins distante
 
 75
-00:03:46,315 --> 00:03:49,073
-peut influer sur la
-différenciation des espèces.
+00:03:46,145 --> 00:03:48,693
+peut influer sur
+la différenciation des espèces.
 
 76
-00:03:49,073 --> 00:03:50,785
-À partir de mon modèle,
+00:03:48,693 --> 00:03:50,785
+>> À partir de mon modèle,
 
 77
 00:03:50,785 --> 00:03:53,800
@@ -363,18 +362,17 @@ avait de très petits œufs,
 et une autre de très gros œufs.
 
 79
-00:03:56,055 --> 00:03:58,678
-Or, les tailles des œufs
-pour chacune en effet
+00:03:56,055 --> 00:03:58,448
+Or, les tailles d'œufs de chacune
 
 80
-00:03:58,678 --> 00:04:00,758
-ont été celles
-prédites grâce à mon modèle.
+00:03:58,448 --> 00:04:00,698
+ont bien été celles prédites
+grâce à mon modèle.
 
 81
-00:04:00,758 --> 00:04:02,338
-C'est super pour son modèle !
+00:04:00,698 --> 00:04:02,338
+>> C'est super pour son modèle !
 
 82
 00:04:02,338 --> 00:04:05,048
@@ -382,21 +380,21 @@ Elle peut désormais l'appliquer
 à des spécimens fossiles
 
 83
-00:04:05,048 --> 00:04:07,358
+00:04:05,048 --> 00:04:07,308
 pour rechercher les facteurs d'extinction.
 
 84
-00:04:07,358 --> 00:04:11,139
+00:04:07,308 --> 00:04:10,909
 Et l'équipe en eaux profondes est revenue
 aussi avec de belles découvertes !
 
 85
-00:04:11,139 --> 00:04:14,899
-L'Océan Indien est généralement
+00:04:10,909 --> 00:04:14,819
+>> L'Océan Indien est généralement
 la zone la moins explorée du monde.
 
 86
-00:04:14,899 --> 00:04:16,739
+00:04:14,819 --> 00:04:16,739
 Nous avons été les premiers à explorer
 
 87
@@ -427,12 +425,12 @@ une nouvelle espèce de poisson.
 
 93
 00:04:31,594 --> 00:04:34,384
-Que nous apprend un tel voyage
+>> Que nous apprend un tel voyage
 sur le monde naturel ?
 
 94
 00:04:34,384 --> 00:04:36,964
-Ça nous montre simplement
+>> Ça nous montre simplement
 qu'il y a là dans le monde
 
 95
