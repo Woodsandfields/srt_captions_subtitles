@@ -69,8 +69,8 @@ destinées à faciliter votre travail.
 
 16
 00:01:19,795 --> 00:01:24,420
-Imaginez que nous voulons
-changer quelques trucs dans Git
+Imaginez que nous voulons changer
+quelques trucs dans Git
 
 17
 00:01:24,420 --> 00:01:26,049
@@ -103,269 +103,271 @@ On confirme juste.
 
 23
 00:02:01,060 --> 00:02:05,735
-On peut passer en revue les changements
-qu' on a faits.
+On peut passer en revue
+les changements qu' on a faits.
 
 24
-00:02:05,735 --> 00:02:11,301
+00:02:05,735 --> 00:02:11,189
 Un push, mais IntelliJ l'a rejeté...
 Le push est rejeté,
 
 25
-00:02:11,309 --> 00:02:14,193
+00:02:11,189 --> 00:02:14,103
 et IntelliJ propose d'arranger ça
 sur-le-champ.
 
 26
-00:02:14,193 --> 00:02:20,643
+00:02:14,103 --> 00:02:16,923
 On peut rebaser d'un seul clic,
-ce qui est intéressant car on peut voir
 
 27
-00:02:20,643 --> 00:02:25,500
+00:02:16,928 --> 00:02:22,658
+ce qui est intéressant car on peut voir
 que le fichier B est modifié,
-et si on rebase ici en ligne de commande,
 
 28
+00:02:22,658 --> 00:02:25,500
+et si on rebase ici en ligne de commande,
+
+29
 00:02:25,500 --> 00:02:31,087
 ça proteste qu'il n'y a pas eu de commit
 pour les changements,
 
-29
+30
 00:02:31,087 --> 00:02:34,316
 le rebase est impossible,
 
-30
+31
 00:02:34,316 --> 00:02:37,405
 donc on fait discrètement un stash
 qu'on démet après :
 
-31
+32
 00:02:37,405 --> 00:02:40,378
 On stashe avant le rebase
 et on réintègre ensuite.
 
-32
+33
 00:02:40,378 --> 00:02:44,955
 Et on a ici une case à cocher intéressante
 
-33
-00:02:44,955 --> 00:02:53,132
+34
+00:02:44,955 --> 00:02:53,802
 pour les flux de travail sur les branches
 avec des pull et des push,
 
-34
-00:02:53,132 --> 00:02:56,716
+35
+00:02:53,802 --> 00:02:56,716
 il suffit de cocher la case
 
-35
+36
 00:02:56,716 --> 00:03:01,272
 et pousser en silence sans s'embêter
 de choisir la méthode à chaque fois.
 
-36
+37
 00:03:01,272 --> 00:03:05,794
 Donc, on rebase. Les modifs
 de B sont stashées,
 
-37
+38
 00:03:05,794 --> 00:03:14,614
 puis ça rebase et pousse nos modifs, 
 et défait le stash de B qu'on voit ici.
 
-38
+39
 00:03:14,614 --> 00:03:23,532
 Il y a quelques jours, quelqu'un a tweeté,
 « J'aime comment IntelliJ
 
-39
-00:03:23,532 --> 00:03:34,562
+40
+00:03:23,532 --> 00:03:34,312
 arrive à faire  push, fail, stash, fetch,
 rebase et unstash en un click. »
 
-40
-00:03:34,562 --> 00:03:41,965
+41
+00:03:34,312 --> 00:03:41,965
 Une autre fonctionnalité à vous montrer
 est comment procéder avec les branches.
 
-41
+42
 00:03:41,965 --> 00:03:47,005
 Voici notre panneau de branche.
 Ici, je n'en ai qu'une.
 
-42
+43
 00:03:47,005 --> 00:03:49,831
 Je suis sur la branche master.
 
-43
-00:03:49,831 --> 00:03:58,253
+44
+00:03:49,831 --> 00:03:58,153
 On va créer une nouvelle branche.
 On l'appelle « feature ».
 
-44
-00:03:58,253 --> 00:04:01,836
+45
+00:03:58,153 --> 00:04:01,836
 Ajoutons-y quelque chose.
 
-45
+46
 00:04:09,622 --> 00:04:15,372
 Revenons maintenant à la branche master.
 
-46
+47
 00:04:15,372 --> 00:04:21,825
 Et un truc intéressant se produit.
 Si on fait ici des changements locaux
 
-47
+48
 00:04:21,825 --> 00:04:24,616
 puis on veut revenir à la branche feature,
 
-48
+49
 00:04:24,616 --> 00:04:27,911
 Git ne nous le permet pas directement.
 
-49
+50
 00:04:27,911 --> 00:04:34,242
 Il va protester que nos changements
-vont être effacés dans le checkout.
-
-50
-00:04:36,584 --> 00:04:41,323
-Notre récupérons l'info et proposons
-un truc nommé « smart checkout ».
+vont être effacés en faisant checkout.
 
 51
-00:04:41,323 --> 00:04:46,098
-smart checkout revient là aussi 
-à stasher les modifs , puis checkout,
+00:04:36,584 --> 00:04:41,323
+Nous récupérons l'info et proposons
+un truc nommé « smart checkout ».
 
 52
-00:04:46,098 --> 00:04:49,957
-puis démise du stash.
+00:04:41,323 --> 00:04:46,098
+smart checkout revient là aussi 
+à stasher les modifs, puis checkout,
 
 53
+00:04:46,098 --> 00:04:49,957
+puis on unstashe les modifs.
+
+54
 00:04:49,957 --> 00:04:54,077
 Donc voici feature,
 et ici on voit nos modifs locales.
 
-54
-00:04:54,077 --> 00:04:58,273
-C'est super pratique quand,
-par exemple, on oublie
-
 55
-00:04:58,273 --> 00:05:00,912
-de changer de branche
-avant de faire des modifs locales.
+00:04:54,077 --> 00:04:57,633
+C'est super pratique quand, par exemple,
 
 56
+00:04:57,633 --> 00:05:00,912
+on oublie de changer de branche
+avant de faire des modifs locales.
+
+57
 00:05:00,912 --> 00:05:04,206
 On peut désormais basculer
 d'une branche à l'autre comme ça.
 
-57
+58
 00:05:04,206 --> 00:05:11,081
 Notre intégration de Git est un projet
 arrivé aujourd'hui à maturation,
 
-58
+59
 00:05:11,081 --> 00:05:16,921
 mais pendant longtemps,
 notre but a seulement été d'ajouter
 
-59
+60
 00:05:16,921 --> 00:05:22,915
 plein de fonctionnalités,
 certaines ressemblant à ceci :
 
-60
+61
 00:05:22,915 --> 00:05:25,149
 par exemple,
 la boîte de dialogue pour rebase,
 
-61
+62
 00:05:25,149 --> 00:05:28,084
 c'est en fait plutôt inutile,
 
-62
+63
 00:05:28,084 --> 00:05:30,961
 ça reprend seulement
 les options en ligne de commande
 
-63
+64
 00:05:30,961 --> 00:05:33,728
 dans l'interface graphique utilisateur.
 
-64
+65
 00:05:33,728 --> 00:05:40,152
 Mais depuis deux ans, nous travaillons dur
-à rendre l'interface UI plus conviviale
+à rendre l'interface plus conviviale
 
-65
+66
 00:05:40,152 --> 00:05:42,182
 pour nos utilisateurs
 
-66
+67
 00:05:42,182 --> 00:05:45,635
 grâce à ces flux automatisés
 
-67
-00:05:45,635 --> 00:05:51,473
-et ces options cool quand on travaille
-sur ses branches et tout ça.
-
 68
-00:05:51,473 --> 00:05:54,641
+00:05:45,635 --> 00:05:51,283
+et ces options sympa
+pour travailler sur ses branches, etc.
+
+69
+00:05:51,283 --> 00:05:54,641
 Voilà, c'est tout ce que
 je voulais vous montrer,
 
-69
+70
 00:05:54,641 --> 00:05:57,020
 (Rire)
 un peu de pub pour notre produit.
 
-70
+71
 00:05:57,020 --> 00:06:00,839
 Et je signale que
 IntelliJ IDEA Community Edition,
 
-71
+72
 00:06:00,839 --> 00:06:05,570
 qui est un IDE Java complet,
 
-72
+73
 00:06:05,570 --> 00:06:09,266
 est un logiciel libre et gratuit,
 et il est sur GitHub.
 
-73
+74
 00:06:09,266 --> 00:06:14,996
 Si vous programmez en Java 
 et voulez participer au projet,
 
-74
+75
 00:06:14,996 --> 00:06:17,640
 on peut travailler ensemble dessus demain.
 
-75
+76
 00:06:17,640 --> 00:06:21,920
 J'amènerai des rapports simples d'erreur
 sur lesquels travailler.
 
-76
+77
 00:06:21,920 --> 00:06:27,141
 On en a plus de 600.
 Bref, il y a de quoi faire. (Rire)
 
-77
+78
 00:06:27,141 --> 00:06:31,014
 Bref, n'hésitez pas, venez me trouver,
-et on pourra coder ensemble. Merci.
+et on pourra déboguer ensemble. Merci.
 
-78
+79
 00:06:31,014 --> 00:06:34,082
 [Kirill Likhodedov]
 (applaudissements)
 
-79
+80
 00:06:37,742 --> 00:06:41,742
 [Git Merge 2013]
