@@ -39,335 +39,395 @@ pour Ruby et Python,
 PhpStorm, WebStorm,
 
 10
-00:00:36,573 --> 00:00:42,193
-chaque produit est un IDE vraiment cool.
+00:00:36,573 --> 00:00:40,773
+et chacun de nos produits est
+un Environnement de développement intégré,
 
 11
+00:00:40,773 --> 00:00:42,193
+un EDI, assez chouette.
+
+12
 00:00:42,193 --> 00:00:45,391
 Certains d'entre eux sont considérés
 comme les meilleurs du marché.
 
-12
-00:00:45,391 --> 00:00:53,116
-Concrètement, je travaille
-à l'intégration de cet IDE avec Git
-
 13
-00:00:53,116 --> 00:00:55,715
-et avec d'autres systèmes
-de contrôle de version.
+00:00:45,391 --> 00:00:49,413
+Concrètement, mon travail consiste à
 
 14
+00:00:50,893 --> 00:00:53,806
+contribuer à l'intégration avec Git
+et avec d'autres systèmes
+
+15
+00:00:53,806 --> 00:00:55,715
+de contrôle de version pour cet EDI.
+
+16
 00:00:55,715 --> 00:00:58,861
 Je vais vous montrer
 quelques-unes de nos fonctionnalités
 
-15
-00:00:58,861 --> 00:01:11,519
-destinées à faciliter votre travail.
-... J'agrandis l'image... On y va.
-
-16
-00:01:19,795 --> 00:01:24,420
-Imaginez que nous voulons changer
-quelques trucs dans Git
-
 17
+00:00:58,861 --> 00:01:03,990
+destinées à faciliter votre travail.
+
+18
+00:01:04,160 --> 00:01:09,484
+... J'agrandis l'image...
+
+19
+00:01:20,105 --> 00:01:24,420
+Imaginez que nous voulons faire
+quelques changements dans Git
+
+20
 00:01:24,420 --> 00:01:26,049
 puis faire un push.
 
-18
-00:01:26,049 --> 00:01:30,583
-Donc, on fait un truc, on pousse,
-et bam, le push est rejeté.
-
-19
-00:01:30,583 --> 00:01:39,924
-On doit donc faire un pull puis un push.
-Cette fois, ça marche.
-
-20
-00:01:39,924 --> 00:01:43,389
-Notre IDE propose
-une fonctionnalité intéressante.
-
 21
-00:01:44,681 --> 00:01:57,721
-Faisons quelques changements.
-Et un push.
+00:01:26,589 --> 00:01:30,583
+Donc, on fait un truc, on pousse,
+et boum, le push est rejeté.
 
 22
-00:01:57,721 --> 00:02:01,060
-Voici le dialogue correspondant.
-On confirme juste.
+00:01:30,583 --> 00:01:32,903
+On doit donc faire un pull...
 
 23
+00:01:36,623 --> 00:01:39,924
+puis un nouveau push.
+Cette fois, ça marche.
+
+24
+00:01:39,924 --> 00:01:43,389
+Notre EDI propose
+une fonctionnalité intéressante.
+
+25
+00:01:44,681 --> 00:01:47,511
+Faisons quelques changements...
+
+26
+00:01:54,241 --> 00:01:57,721
+et, maintenant, un push.
+
+27
+00:01:57,721 --> 00:02:01,060
+Voici le dialogue correspondant.
+On clique sur...
+
+28
 00:02:01,060 --> 00:02:05,735
 On peut passer en revue
 les changements qu' on a faits.
 
-24
-00:02:05,735 --> 00:02:11,189
-Un push, mais IntelliJ l'a rejeté...
-Le push est rejeté,
+29
+00:02:05,735 --> 00:02:06,872
+On fait notre push.
 
-25
+30
+00:02:06,872 --> 00:02:09,520
+Mais en fait, IntelliJ l'a rejeté...
+
+31
+00:02:09,520 --> 00:02:11,189
+Ce push a été rejeté,
+
+32
 00:02:11,189 --> 00:02:14,103
 et IntelliJ propose d'arranger ça
 sur-le-champ.
 
-26
-00:02:14,103 --> 00:02:16,923
+33
+00:02:14,103 --> 00:02:17,353
 On peut rebaser d'un seul clic,
 
-27
-00:02:16,928 --> 00:02:22,658
+34
+00:02:17,353 --> 00:02:22,858
 ce qui est intéressant car on peut voir
 que le fichier B est modifié,
 
-28
-00:02:22,658 --> 00:02:25,500
-et si on rebase ici en ligne de commande,
-
-29
-00:02:25,500 --> 00:02:31,087
-ça proteste qu'il n'y a pas eu de commit
-pour les changements,
-
-30
-00:02:31,087 --> 00:02:34,316
-le rebase est impossible,
-
-31
-00:02:34,316 --> 00:02:37,405
-donc on fait discrètement un stash
-qu'on démet après :
-
-32
-00:02:37,405 --> 00:02:40,378
-On stashe avant le rebase
-et on réintègre ensuite.
-
-33
-00:02:40,378 --> 00:02:44,955
-Et on a ici une case à cocher intéressante
-
-34
-00:02:44,955 --> 00:02:53,802
-pour les flux de travail sur les branches
-avec des pull et des push,
-
 35
-00:02:53,802 --> 00:02:56,716
-il suffit de cocher la case
+00:02:22,858 --> 00:02:25,460
+et si on rebasait en ligne de commande,
 
 36
-00:02:56,716 --> 00:03:01,272
-et pousser en silence sans s'embêter
-de choisir la méthode à chaque fois.
+00:02:25,460 --> 00:02:31,247
+ça protesterait qu'il n'y a pas eu
+de commit pour les changements,
 
 37
-00:03:01,272 --> 00:03:05,794
-Donc, on rebase. Les modifs
-de B sont stashées,
+00:02:31,877 --> 00:02:34,316
+et vous ne serez pas autorisé à rebaser.
 
 38
-00:03:05,794 --> 00:03:14,614
+00:02:34,316 --> 00:02:37,355
+Donc on fait silencieusement
+un « stash-unstash » :
+
+39
+00:02:37,355 --> 00:02:40,188
+bref, on stashe avant le rebase
+et on réintègre ensuite.
+
+40
+00:02:40,188 --> 00:02:43,525
+Et on a aussi ici
+une case à cocher intéressante.
+
+41
+00:02:44,955 --> 00:02:50,458
+Pour ceux qui ont toujours
+les mêmes flux de travail
+
+42
+00:02:50,458 --> 00:02:53,802
+sur une même branche,
+avec des « pull » et des « push »,
+
+43
+00:02:53,802 --> 00:02:56,716
+il peut être intéressant
+de cocher cette case
+
+44
+00:02:56,716 --> 00:03:01,272
+pour pousser en silence
+sans s'embêter de choisir à chaque fois.
+
+45
+00:03:01,272 --> 00:03:03,533
+Donc, on rebase.
+
+46
+00:03:03,533 --> 00:03:05,794
+Les modifs de B sont stashées,
+
+47
+00:03:05,794 --> 00:03:13,504
 puis ça rebase et pousse nos modifs, 
 et défait le stash de B qu'on voit ici.
 
-39
-00:03:14,614 --> 00:03:23,532
-Il y a quelques jours, quelqu'un a tweeté,
+48
+00:03:15,124 --> 00:03:17,488
+Il y a quelques jours,
+
+49
+00:03:17,488 --> 00:03:21,343
+quelqu'un a tweeté :
+
+50
+00:03:21,343 --> 00:03:23,782
 « J'aime comment IntelliJ
 
-40
-00:03:23,532 --> 00:03:34,312
-arrive à faire  push, fail, stash, fetch,
-rebase et unstash en un click. »
+51
+00:03:23,782 --> 00:03:29,347
+arrive à faire 'push', 'fail', 'stash',
 
-41
+52
+00:03:29,347 --> 00:03:34,312
+'fetch', 'rebase', 'unstash'
+d'un seul clic. »
+
+53
 00:03:34,312 --> 00:03:41,965
 Une autre fonctionnalité à vous montrer
 est comment procéder avec les branches.
 
-42
+54
 00:03:41,965 --> 00:03:47,005
 Voici notre panneau de branche.
 Ici, je n'en ai qu'une.
 
-43
+55
 00:03:47,005 --> 00:03:49,831
-Je suis sur la branche master.
+Je suis sur master.
 
-44
-00:03:49,831 --> 00:03:58,153
+56
+00:03:49,831 --> 00:03:53,232
 On va créer une nouvelle branche.
-On l'appelle « feature ».
 
-45
+57
+00:03:53,232 --> 00:03:55,723
+Appelons-la « feature ».
+
+58
 00:03:58,153 --> 00:04:01,836
 Ajoutons-y quelque chose.
 
-46
+59
 00:04:09,622 --> 00:04:15,372
 Revenons maintenant à la branche master.
 
-47
-00:04:15,372 --> 00:04:21,825
+60
+00:04:15,372 --> 00:04:17,558
 Et un truc intéressant se produit.
+
+61
+00:04:17,558 --> 00:04:20,005
 Si on fait ici des changements locaux
 
-48
-00:04:21,825 --> 00:04:24,616
-puis on veut revenir à la branche feature,
+62
+00:04:20,005 --> 00:04:24,616
+puis qu'on veut revenir
+à la branche « feature »,
 
-49
+63
 00:04:24,616 --> 00:04:27,911
 Git ne nous le permet pas directement.
 
-50
+64
 00:04:27,911 --> 00:04:34,242
 Il va protester que nos changements
-vont être effacés en faisant checkout.
+vont être effacés dans le checkout.
 
-51
+65
 00:04:36,584 --> 00:04:41,323
 Nous récupérons l'info et proposons
 un truc nommé « smart checkout ».
 
-52
-00:04:41,323 --> 00:04:46,098
-smart checkout revient là aussi 
-à stasher les modifs, puis checkout,
+66
+00:04:41,323 --> 00:04:45,508
+Le « smart checkout », c'est à nouveau :
+stasher les modifs, puis un checkout,
 
-53
-00:04:46,098 --> 00:04:49,957
-puis on unstashe les modifs.
+67
+00:04:45,508 --> 00:04:47,667
+puis on démet les modifs.
 
-54
+68
 00:04:49,957 --> 00:04:54,077
-Donc voici feature,
+Donc voici notre nouvelle « feature »,
 et ici on voit nos modifs locales.
 
-55
+69
 00:04:54,077 --> 00:04:57,633
 C'est super pratique quand, par exemple,
 
-56
+70
 00:04:57,633 --> 00:05:00,912
 on oublie de changer de branche
 avant de faire des modifs locales.
 
-57
+71
 00:05:00,912 --> 00:05:04,206
 On peut désormais basculer
 d'une branche à l'autre comme ça.
 
-58
+72
 00:05:04,206 --> 00:05:11,081
 Notre intégration de Git est un projet
 arrivé aujourd'hui à maturation,
 
-59
-00:05:11,081 --> 00:05:16,921
+73
+00:05:11,081 --> 00:05:14,001
 mais pendant longtemps,
-notre but a seulement été d'ajouter
 
-60
-00:05:16,921 --> 00:05:22,915
+74
+00:05:14,001 --> 00:05:18,751
+notre but a seulement été d'ajouter
 plein de fonctionnalités,
+
+75
+00:05:18,751 --> 00:05:22,915
 certaines ressemblant à ceci :
 
-61
+76
 00:05:22,915 --> 00:05:25,149
 par exemple,
 la boîte de dialogue pour rebase,
 
-62
+77
 00:05:25,149 --> 00:05:28,084
 c'est en fait plutôt inutile,
 
-63
+78
 00:05:28,084 --> 00:05:30,961
-ça reprend seulement
+car ça reprend seulement
 les options en ligne de commande
 
-64
+79
 00:05:30,961 --> 00:05:33,728
 dans l'interface graphique utilisateur.
 
-65
-00:05:33,728 --> 00:05:40,152
-Mais depuis deux ans, nous travaillons dur
+80
+00:05:33,728 --> 00:05:36,340
+Mais, depuis deux ans,
+
+81
+00:05:36,340 --> 00:05:40,152
+nous travaillons dur
 à rendre l'interface plus conviviale
 
-66
+82
 00:05:40,152 --> 00:05:42,182
 pour nos utilisateurs
 
-67
-00:05:42,182 --> 00:05:45,635
+83
+00:05:42,772 --> 00:05:45,635
 grâce à ces flux automatisés
 
-68
+84
 00:05:45,635 --> 00:05:51,283
 et ces options sympa
 pour travailler sur ses branches, etc.
 
-69
+85
 00:05:51,283 --> 00:05:54,641
 Voilà, c'est tout ce que
 je voulais vous montrer,
 
-70
+86
 00:05:54,641 --> 00:05:57,020
 (Rire)
 un peu de pub pour notre produit.
 
-71
+87
 00:05:57,020 --> 00:06:00,839
-Et je signale que
+Et je voulais signaler que
 IntelliJ IDEA Community Edition,
 
-72
+88
 00:06:00,839 --> 00:06:05,570
-qui est un IDE Java complet,
+qui est un EDI Java complet,
 
-73
+89
 00:06:05,570 --> 00:06:09,266
 est un logiciel libre et gratuit,
 et il est sur GitHub.
 
-74
+90
 00:06:09,266 --> 00:06:14,996
 Si vous programmez en Java 
 et voulez participer au projet,
 
-75
+91
 00:06:14,996 --> 00:06:17,640
 on peut travailler ensemble dessus demain.
 
-76
+92
 00:06:17,640 --> 00:06:21,920
 J'amènerai des rapports simples d'erreur
 sur lesquels travailler.
 
-77
+93
 00:06:21,920 --> 00:06:27,141
 On en a plus de 600.
 Bref, il y a de quoi faire. (Rire)
 
-78
+94
 00:06:27,141 --> 00:06:31,014
 Bref, n'hésitez pas, venez me trouver,
 et on pourra déboguer ensemble. Merci.
 
-79
-00:06:31,014 --> 00:06:34,082
+95
+00:06:31,014 --> 00:06:34,402
 [Kirill Likhodedov]
-(applaudissements)
+(Applaudissements)
 
-80
+96
 00:06:37,742 --> 00:06:41,742
 [Git Merge 2013]
