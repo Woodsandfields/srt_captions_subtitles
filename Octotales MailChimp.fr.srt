@@ -1,10 +1,10 @@
 1
-00:00:00,665 --> 00:00:03,854
-(bruit de pas)
+00:00:00,115 --> 00:00:02,434
+(Bruit de pas)
 
 2
 00:00:05,099 --> 00:00:07,127
-(voix artificielle) Accès autorisé.
+(Voix artificielle) Accès autorisé.
 
 3
 00:00:08,020 --> 00:00:09,314
@@ -16,7 +16,7 @@
 
 5
 00:00:10,949 --> 00:00:14,454
-Ça a été créé par un groupe d'excentriques
+Ça a été fondé par un groupe d'excentriques
 
 6
 00:00:14,454 --> 00:00:16,298
@@ -41,415 +41,425 @@ d'une personne inattendue dans ce rôle.
 >> Merci ! Bienvenue à MailChimp !
 
 11
-00:00:29,328 --> 00:00:31,908
-♪ (musique soul) ♪
+00:00:29,123 --> 00:00:31,353
+[GITHUB FILMS présente]
 
 12
-00:00:45,069 --> 00:00:48,765
->> MailChimp est un logiciel
-de marketing par courriel
+00:00:31,808 --> 00:00:34,388
+♪ (Musique soul) ♪
 
 13
-00:00:48,765 --> 00:00:52,538
-qui permet de concevoir, développer
-et lancer des campagnes email
+00:00:36,858 --> 00:00:38,338
+[OCTOTALES]
 
 14
-00:00:52,538 --> 00:00:55,927
-et aussi de gérer
-des listes d'abonnés courriel.
+00:00:42,623 --> 00:00:44,453
+[MailChimp, Atlanta, État de Géorgie]
 
 15
-00:00:55,927 --> 00:01:00,297
-En plus, il sait brillamment automatiser 
-les courriels et analyser les données.
+00:00:45,069 --> 00:00:48,765
+>> MailChimp est un logiciel
+de marketing par courrier électronique
 
 16
-00:01:00,591 --> 00:01:02,193
-♪ (musique entrainante) ♪
+00:00:48,765 --> 00:00:52,538
+qui vous aide à concevoir, développer
+et lancer des campagnes e-mail
 
 17
-00:01:02,890 --> 00:01:04,561
->> Notre entreprise est attractive.
+00:00:52,538 --> 00:00:55,927
+ainsi que gérer
+des listes d'abonnés e-mail,
 
 18
-00:01:04,561 --> 00:01:06,088
-Nous valorisons la créativité,
+00:00:55,927 --> 00:00:59,152
+et faire des trucs géniaux comme
+automatiser les e-mails
 
 19
-00:01:06,088 --> 00:01:08,271
-y compris chez nos opérationnels.
+00:00:59,152 --> 00:01:00,627
+et analyser les données.
 
 20
-00:01:08,271 --> 00:01:10,749
-On est encouragé à chercher
-des solutions créatives.
+00:01:00,841 --> 00:01:02,443
+♪ (Musique entraînante) ♪
 
 21
-00:01:10,749 --> 00:01:13,131
-Nous autorisons chacun
-à modifier notre code,
+00:01:02,800 --> 00:01:04,561
+>> C'est un lieu intéressant.
 
 22
-00:01:13,131 --> 00:01:15,082
-et, après sa vérification par des pairs,
+00:01:04,561 --> 00:01:08,088
+Nous valorisons la créativité,
+y compris chez nos opérationnels.
 
 23
-00:01:15,082 --> 00:01:16,635
-il est déployé automatiquement.
+00:01:08,088 --> 00:01:10,779
+Nous sommes encouragés à trouver
+des solutions créatives.
 
 24
+00:01:10,779 --> 00:01:13,131
+Nous permettons à tous
+de modifier notre code,
+
+25
+00:01:13,131 --> 00:01:15,082
+et, après vérification entre collègues,
+
+26
+00:01:15,082 --> 00:01:16,635
+le code est aussitôt déployé.
+
+27
 00:01:16,635 --> 00:01:18,633
 Chacun peut lancer une idée
 
-25
+28
 00:01:18,633 --> 00:01:20,013
 que d'autres vont améliorer.
 
-26
-00:01:20,013 --> 00:01:23,301
-On peut collaborer ensemble
-sans partager le même bureau.
-
-27
-00:01:23,301 --> 00:01:25,918
-Ici, nous sommes fans
-d'IaC, Infrastructure as Code !
-
-28
-00:01:25,918 --> 00:01:29,619
-Notre apport se fait par notre code,
-
 29
-00:01:29,619 --> 00:01:33,959
-et pour nous codeurs IaC,
-le code c'est de la poésie pure.
+00:01:20,013 --> 00:01:23,301
+On peut travailler à plusieurs
+même sans partager un bureau.
 
 30
-00:01:33,959 --> 00:01:36,581
-Voilà comment nous devenons créatifs
-dans notre métier !
+00:01:23,301 --> 00:01:25,868
+Ici, l'IaC est assez central :
+Infrastructure as Code !
 
 31
-00:01:36,581 --> 00:01:38,983
->> Ici, chacun est encouragé
-à se montrer créatif,
+00:01:25,868 --> 00:01:29,619
+Bref, on peut contribuer par du code,
 
 32
-00:01:38,983 --> 00:01:41,161
-chacun peut être créatif dans son travail.
+00:01:29,619 --> 00:01:33,809
+et pour un codeur IaC,
+le code c'est de la poésie pure.
 
 33
-00:01:41,161 --> 00:01:45,049
-La créativité n'est pas réservée
-aux designers ou au secteur marketing.
+00:01:33,809 --> 00:01:36,451
+Et voilà comment on peut
+être créatif dans son métier !
 
 34
-00:01:46,181 --> 00:01:49,192
-Les programmeurs qui nous rejoignent
-viennent de tous horizons.
+00:01:36,451 --> 00:01:39,113
+>> Chacun est encouragé
+à être créatif dans son travail,
 
 35
-00:01:49,192 --> 00:01:52,091
-Nos descriptions de poste précisent
-que nous nous moquons bien
+00:01:39,113 --> 00:01:41,141
+et chacun peut vraiment l'être.
 
 36
-00:01:52,091 --> 00:01:55,101
-du nom de votre dernière entreprise
-et de votre université.
+00:01:41,141 --> 00:01:44,699
+La créativité n'est pas que pour
+les concepteurs et les gens du marketing !
 
 37
+00:01:44,820 --> 00:01:46,060
+(Bruit de conversation)
+
+38
+00:01:46,181 --> 00:01:49,192
+Les ingénieurs qui nous rejoignent
+viennent de tous horizons.
+
+39
+00:01:49,192 --> 00:01:52,341
+Nos descriptions de poste précisent
+que nous nous moquons de savoir
+
+40
+00:01:52,341 --> 00:01:55,101
+de quelle grande entreprise
+ou université vous venez.
+
+41
 00:01:55,101 --> 00:01:57,171
 Nous voulons juste
 de super programmeurs.
 
-38
+42
 00:01:57,171 --> 00:02:01,373
 >> Longtemps, les nouveaux développeurs
 ont eu un sas d'intégration de trois mois
 
-39
+43
 00:02:01,373 --> 00:02:03,960
 rien que pour apprendre
 notre fonctionnement interne,
 
-40
+44
 00:02:03,960 --> 00:02:07,566
 mais ce sas a été réduit à quelques jours,
 
-41
+45
 00:02:07,566 --> 00:02:11,259
-et, dès leur premier jour, 
+et, dès le premier jour, en fait,
 certains contribuent déjà au code
 
-42
+46
 00:02:11,259 --> 00:02:13,142
 et démarrent sur les chapeaux de roue !
 
-43
+47
 00:02:13,142 --> 00:02:15,548
 >> On n'a pas forcément besoin
 d'enseigner aux gens
 
-44
+48
 00:02:15,548 --> 00:02:17,278
 comment se servir de Git ou GitHub
 
-45
+49
 00:02:17,278 --> 00:02:18,962
 ou comment faire un pull request.
 
-46
+50
 00:02:18,962 --> 00:02:22,419
-En général, ils le savent,
+En général, ils le savent déjà,
 ce qui rend mon travail plus facile !
 
-47
+51
 00:02:22,419 --> 00:02:24,415
 >> Notre environnement GitHub
 
-48
+52
 00:02:24,415 --> 00:02:28,452
 a été ouvert d'emblée
 à toute notre équipe produit,
 
-49
+53
 00:02:28,452 --> 00:02:30,680
 afin que chaque testeur accède
 
-50
-00:02:30,680 --> 00:02:34,481
-aux pull request, lise,
-consulte les diff et voie l'évolution,
+54
+00:02:30,680 --> 00:02:35,161
+aux pull requests, lise,
+consulte les diffs et voie l'évolution,
 
-51
-00:02:34,481 --> 00:02:38,147
+55
+00:02:35,161 --> 00:02:38,517
 ce qui est vraiment utile
 pour comprendre les fonctionnalités,
 
-52
-00:02:38,147 --> 00:02:41,208
+56
+00:02:38,517 --> 00:02:41,208
 car, parfois, un ingénieur
 se met à décrire un truc
 
-53
+57
 00:02:41,208 --> 00:02:45,033
 et ça paraît tout simple,
 et puis vous ouvrez le code,
 
-54
+58
 00:02:45,033 --> 00:02:50,268
 et vous réalisez que
 ce changement mineur affecte 20 pages,
 
-55
+59
 00:02:50,268 --> 00:02:53,154
 et, pour les testeurs,
 c'est une information précieuse.
 
-56
+60
 00:02:53,154 --> 00:02:56,253
 Nous nous sentons bien meilleurs
 dans notre travail
 
-57
+61
 00:02:56,253 --> 00:02:58,344
 quand nous pouvons voir
 ce qui se passe.
 
-58
-00:02:59,634 --> 00:03:01,262
-♪ (musique joyeuse) ♪
-
-59
-00:03:02,802 --> 00:03:04,589
->> Nous ne fonctionnons pas en silos,
-
-60
-00:03:04,589 --> 00:03:07,862
-nous sommes invités à travailler
-transversalement entre départements
-
-61
-00:03:07,862 --> 00:03:11,273
-et nous suivons une formation que
-nous appelons l'Université MailChimp.
-
 62
-00:03:11,273 --> 00:03:13,091
->> Nos cours à l'Université MailChimp
+00:02:59,634 --> 00:03:01,262
+♪ (Musique joyeuse) ♪
 
 63
-00:03:13,091 --> 00:03:17,610
+00:03:02,802 --> 00:03:04,609
+>> Nous ne fonctionnons pas en silos,
+
+64
+00:03:04,609 --> 00:03:07,862
+nous sommes invités à collaborer
+entre départements
+
+65
+00:03:07,862 --> 00:03:11,273
+et nous recevons une formation que
+nous appelons l'Université MailChimp.
+
+66
+00:03:11,273 --> 00:03:13,401
+>> Nos cours à l'Université MailChimp
+
+67
+00:03:13,401 --> 00:03:18,450
 portent sur les compétences
 interpersonnelles et de leadership.
 
-64
-00:03:17,610 --> 00:03:21,110
-De fait, notre croissance se poursuit,
+68
+00:03:18,450 --> 00:03:21,110
+Notre croissance se poursuit,
 que nous le voulions ou non,
 
-65
-00:03:21,110 --> 00:03:23,347
-et ça va avoir un gros impact
+69
+00:03:21,110 --> 00:03:23,227
+et ça va fortement influer
 sur notre culture.
 
-66
-00:03:23,347 --> 00:03:27,113
+70
+00:03:23,227 --> 00:03:27,113
 Nous avons décidé que nous avions besoin
-d'un outil sûr et cohérent
+d'un outil solide et cohérent
 
-67
+71
 00:03:27,113 --> 00:03:29,713
 pour impliquer nos équipes
-et leur assurer les moyens
+et leur donner les moyens
 
-68
-00:03:29,713 --> 00:03:32,485
+72
+00:03:29,713 --> 00:03:33,885
 de bien accompagner cette croissance
 à tous les niveaux.
 
-69
-00:03:32,485 --> 00:03:35,992
->> Ce que j'aime beaucoup
-dans l'Université MailChimp,
-
-70
-00:03:35,992 --> 00:03:38,411
-c'est qu'elle nous aide
-à préserver notre culture
-
-71
-00:03:38,411 --> 00:03:40,634
-pendant que nous agrandissons l'équipe.
-
-72
-00:03:40,634 --> 00:03:42,970
-Tous les cours reflètent
-la culture MailChimp.
-
 73
-00:03:42,970 --> 00:03:45,912
-L'autre chose que j'adore,
-c'est qu'elle s'adresse à tous.
+00:03:33,885 --> 00:03:36,612
+>> Ce que j'aime,
+c'est que l'Université MailChimp
 
 74
-00:03:45,912 --> 00:03:49,308
->> Collaborateurs individuels et managers
-acquièrent des compétences clé
+00:03:36,612 --> 00:03:39,811
+nous aide à garder notre culture
+tandis que l'entreprise s'agrandit.
 
 75
-00:03:49,308 --> 00:03:50,488
-en communication.
+00:03:39,811 --> 00:03:43,150
+Tous les cours sont faits de manière à
+renforcer la culture MailChimp.
 
 76
-00:03:50,488 --> 00:03:54,588
-Ça va de « Comment bien écouter » 
-et « Comment écouter attentivement »,
+00:03:43,150 --> 00:03:45,912
+L'autre chose que j'adore,
+c'est que ça s'adresse à tous.
 
 77
+00:03:45,912 --> 00:03:47,878
+>> Collaborateurs et chefs d'équipe
+
+78
+00:03:47,878 --> 00:03:50,488
+acquièrent des compétences clé
+en communication.
+
+79
+00:03:50,488 --> 00:03:54,588
+Ça va de « Comment bien écouter »
+et « Comment écouter attentivement »,
+
+80
 00:03:54,588 --> 00:03:58,219
 à « Comment faire un
 commentaire constructif
 
-78
+81
 00:03:58,219 --> 00:04:00,843
 en se concentrant sur l'info
 et évacuant les émotions ».
 
-79
-00:04:00,843 --> 00:04:03,237
-Ce type de cours est offert
-par notre Université
-
-80
-00:04:03,237 --> 00:04:04,419
-à tous les employés.
-
-81
-00:04:04,419 --> 00:04:07,783
->> C'est génial quand une entreprise
-veut faire tomber les barrières
-
 82
-00:04:07,783 --> 00:04:10,724
-entre des secteurs qui
-d'ordinaire ne se parlent pas,
+00:04:00,843 --> 00:04:04,407
+C'est un peu la base du tronc commun
+des cours pour tous les employés.
 
 83
-00:04:10,724 --> 00:04:14,236
-une entreprise aussi qui promeut
-le développement de ses employés.
+00:04:04,407 --> 00:04:07,823
+>> C'est assez chouette qu'une entreprise
+veuille casser les barrières
 
 84
+00:04:07,823 --> 00:04:10,724
+entre des départements
+qui d'ordinaire ne se parlent pas,
+
+85
+00:04:10,724 --> 00:04:14,236
+une entreprise aussi qui encourage
+le développement de ses employés.
+
+86
 00:04:15,088 --> 00:04:17,339
 >> J'ai le sentiment
 qu'on a fait du bon travail
 
-85
-00:04:17,339 --> 00:04:20,864
-en essayant d'être à l'écoute de ce dont
-les gens ont besoin dans l'instant
-
-86
-00:04:20,864 --> 00:04:22,748
-tout en évoluant quand nécessaire.
-
 87
-00:04:22,748 --> 00:04:25,163
-Chacune de vos décisions
-ricoche pour ainsi dire.
+00:04:17,339 --> 00:04:20,294
+en essayant d'être à l'écoute
+des besoins individuels du moment
 
 88
-00:04:25,163 --> 00:04:27,347
-Nous ne sommes pas seuls
-à faire ça, sûrement.
+00:04:20,294 --> 00:04:22,748
+puis en évoluant
+quand ces besoins changent.
 
 89
-00:04:27,347 --> 00:04:29,752
-Notre façon à mon avis
-de régler les problèmes
+00:04:22,748 --> 00:04:25,193
+Chacune de nos décisions
+produit des ricochets.
 
 90
-00:04:29,752 --> 00:04:33,275
-vise à entretenir
-la culture MailChimp.
+00:04:25,193 --> 00:04:27,347
+Nous ne sommes sûrement pas
+un cas à part.
 
 91
-00:04:33,275 --> 00:04:35,760
+00:04:27,347 --> 00:04:29,752
+Notre façon à mon avis
+de régler ces problèmes
+
+92
+00:04:29,752 --> 00:04:33,275
+vise vraiment à entretenir
+notre culture d'entreprise.
+
+93
+00:04:33,275 --> 00:04:35,620
 Les gens sont venus travailler
 ici pour une raison
 
-92
-00:04:35,760 --> 00:04:38,014
-et nous essayons de faire
-perdurer ces raisons.
-
-93
-00:04:38,365 --> 00:04:40,849
->> Ce qui m'a fait venir à MailChimp,
-
 94
-00:04:40,849 --> 00:04:44,055
-c'est mon envie d'une
-équipe de gens créatifs
+00:04:35,620 --> 00:04:38,214
+et nous voulons nous assurer
+que ces raisons perdurent.
 
 95
-00:04:44,055 --> 00:04:47,146
-où apprendre des autres
-et collaborer ensemble,
+00:04:38,365 --> 00:04:40,849
+>> Ce qui m'a vraiment attiré à MailChimp,
 
 96
-00:04:47,146 --> 00:04:49,789
-et aussi où m'améliorer
-en tant que développeur.
+00:04:40,849 --> 00:04:44,055
+c'est mon désir d'être
+dans une équipe de gens créatifs,
 
 97
-00:04:49,789 --> 00:04:54,700
-Être dans une équipe voyant là
-de la valeur ajoutée pour notre produit.
+00:04:44,055 --> 00:04:47,146
+où je peux apprendre des autres
+et collaborer vraiment,
 
 98
+00:04:47,146 --> 00:04:49,789
+et aussi m'améliorer
+en tant que développeur :
+
+99
+00:04:49,789 --> 00:04:54,700
+être dans une équipe qui voit ça
+comme un apport de valeur au produit.
+
+100
 00:04:55,580 --> 00:04:57,584
-(bruits de piétinements joyeux, rires)
+(Bruits de pas de danse. Rires)

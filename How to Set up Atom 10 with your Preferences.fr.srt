@@ -1,6 +1,6 @@
 1
 00:00:00,212 --> 00:00:02,328
-♪ (musique) ♪
+♪ (Musique) ♪
 
 2
 00:00:03,088 --> 00:00:06,363
@@ -70,16 +70,16 @@ ouvrez les paramètres de l'éditeur.
 
 18
 00:00:32,634 --> 00:00:35,564
-Les Core Settings contiennent 
+Les « Core Settings » contiennent 
 les préférences de base
 
 19
-00:00:35,564 --> 00:00:37,302
-comme le type d'encodage du fichier,
+00:00:35,564 --> 00:00:37,282
+comme le type d'encodage du fichier
 
 20
-00:00:37,302 --> 00:00:39,532
-les fichiers et chemins d'accès à ignorer.
+00:00:37,282 --> 00:00:39,532
+ou la liste des chemins d'accès à ignorer.
 
 21
 00:00:39,532 --> 00:00:43,088
@@ -88,28 +88,28 @@ un dossier par défaut pour vos projets.
 
 22
 00:00:43,088 --> 00:00:45,532
-Dans les Editor Settings,
+Dans « Editor Settings »,
 vous pouvez personnaliser
 
 23
 00:00:45,532 --> 00:00:48,524
-la manière dont le texte apparait
+la manière dont le texte apparaît
 dans votre fenêtre éditeur.
 
 24
 00:00:48,524 --> 00:00:50,998
-Changez ici la police
-et la largeur de la tabulation,
+Modifiez ici la police
+ou la largeur de tabulation,
 
 25
 00:00:50,998 --> 00:00:53,728
-activez les aides visuelles,
-comme les numéros de ligne,
+ou encore les aides visuelles :
+numéros de ligne,
 
 26
 00:00:53,728 --> 00:00:55,878
-marqueurs d'indentation
-et caractères masqués.
+marqueurs d'indentation,
+caractères masqués...
 
 27
 00:00:55,878 --> 00:00:58,112
@@ -126,8 +126,8 @@ en fonction de vos besoins.
 
 30
 00:01:01,333 --> 00:01:06,505
-L'onglet Keybindings de vos paramètres
-fournit des raccourcis clavier pratiques.
+L'onglet « Keybindings » de vos paramètres
+fournit de pratiques raccourcis clavier.
 
 31
 00:01:06,505 --> 00:01:08,850
@@ -140,7 +140,7 @@ mais cette liste s'allonge
 33
 00:01:10,401 --> 00:01:13,092
 quand vous importez
-des packages et outils tiers.
+des outils tiers et des packages.
 
 34
 00:01:13,092 --> 00:01:15,690
@@ -162,7 +162,7 @@ ou en créer un nouveau,
 
 38
 00:01:22,336 --> 00:01:24,471
-éditez directement le fichier keymap.
+éditez directement le fichier « keymap ».
 
 39
 00:01:24,471 --> 00:01:26,697
@@ -170,12 +170,12 @@ Atom utilise la notation CoffeeScript
 
 40
 00:01:26,697 --> 00:01:28,578
-dans ce fichier des raccourcis.
+pour gérer là les raccourcis.
 
 41
 00:01:28,578 --> 00:01:31,898
-Ainsi, les raccourcis
-sont faciles à lire et à créer.
+Les raccourcis y sont faciles à lire
+et simples à créer.
 
 42
 00:01:31,898 --> 00:01:35,237
@@ -184,22 +184,23 @@ pour créer un nouveau raccourci.
 
 43
 00:01:35,237 --> 00:01:37,975
-Tapez simplement key
+Tapez simplement « key »
 et appuyez sur Tab.
 
 44
 00:01:37,975 --> 00:01:40,801
-Atom affiche alors un modèle de code.
+Atom affiche alors
+un modèle de code très pratique.
 
 45
 00:01:40,801 --> 00:01:44,226
-À ce propos, 
+À propos de code préécrit, 
 dans le dossier de configuration Atom,
 
 46
 00:01:44,226 --> 00:01:47,285
-le fichier snippets vous permet
-de définir vos raccourcis clavier
+le fichier « snippets » permet
+de définir des raccourcis clavier
 
 47
 00:01:47,285 --> 00:01:49,920
@@ -207,198 +208,197 @@ pour vos bouts de code ou de texte
 les plus fréquents.
 
 48
-00:01:49,920 --> 00:01:51,799
-Comme keybindings, snippets est écrit
+00:01:49,920 --> 00:01:53,549
+Comme le fichier keybindings, snippets
+est écrit en notation objet CoffeeScript.
 
 49
-00:01:51,799 --> 00:01:53,594
-en notation objet CoffeeScript.
-
-50
-00:01:53,594 --> 00:01:57,070
+00:01:53,549 --> 00:01:57,070
 Et Atom offre même un bout de code
 pour créer des bouts de code !
 
-51
+50
 00:01:57,080 --> 00:01:59,784
-Écrivez simplement snip
+Écrivez simplement « snip »
 et appuyez sur Tab.
 
-52
+51
 00:01:59,784 --> 00:02:02,180
-Un modèle de code apparait
+Un modèle de code apparaît
 que vous pouvez modifier
 
-53
+52
 00:02:02,180 --> 00:02:04,011
 pour en définir périmètre et contenu.
 
+53
+00:02:04,013 --> 00:02:05,929
+Dans l'onglet « Themes » des paramètres,
+
 54
-00:02:04,013 --> 00:02:05,749
-Dans l'onglet Themes des paramètres,
+00:02:05,929 --> 00:02:08,681
+personnalisez le style visuel
+de votre interface éditeur
 
 55
-00:02:05,749 --> 00:02:08,681
-personnalisez le style visuel
-de votre interface éditeur,
+00:02:08,681 --> 00:02:12,098
+et les règles de surlignage syntaxique
+dans l'éditeur lui-même.
 
 56
-00:02:08,681 --> 00:02:12,098
-dont les règles de surlignage syntaxique.
-
-57
 00:02:12,098 --> 00:02:15,292
 Themes contient des collections 
 de règles de style écrites en LESS,
 
-58
+57
 00:02:15,292 --> 00:02:17,268
 qui n'est qu'un super-ensemble de CSS.
 
-59
-00:02:17,268 --> 00:02:19,899
+58
+00:02:17,268 --> 00:02:20,069
 Avec Atom sont fournis
 quelques thèmes prêts à l'emploi
 
-60
-00:02:19,899 --> 00:02:22,202
+59
+00:02:20,069 --> 00:02:22,202
 pour que vous ayez du choix dès le début.
 
-61
-00:02:22,202 --> 00:02:25,784
+60
+00:02:22,202 --> 00:02:25,214
 Mais des centaines de thèmes
-attendent d'être essayés, tous créés
+attendent d'être essayés,
+
+61
+00:02:25,214 --> 00:02:27,729
+tous créés par des utilisateurs d'Atom.
 
 62
-00:02:25,784 --> 00:02:27,729
-par des utilisateurs Atom tels que vous.
+00:02:27,729 --> 00:02:31,226
+Pour installer un thème, cliquez 
+sur « Install » dans vos paramètres
 
 63
-00:02:27,729 --> 00:02:31,226
-Pour installer un thème,
-cliquez sur Install dans vos paramètres
-
-64
 00:02:31,226 --> 00:02:33,132
 et sélectionnez l'un des thèmes proposés
 
-65
+64
 00:02:33,132 --> 00:02:35,669
 ou trouvez quelque chose
-qui vous plait davantage.
+qui vous plaise davantage.
 
-66
+65
 00:02:35,669 --> 00:02:37,054
 Si rien ne vous convient,
 
-67
+66
 00:02:37,054 --> 00:02:40,442
 ou si vous avez installé un thème
 qui nécessite quelques ajustements,
 
-68
+67
 00:02:40,442 --> 00:02:43,268
 vous pouvez changer les règles de style
 en créant les vôtres
 
-69
-00:02:43,268 --> 00:02:46,378
-grâce au fichier style.less du
-répertoire de configuration Atom.
+68
+00:02:43,268 --> 00:02:46,598
+grâce au fichier « style.less »
+du répertoire de configuration Atom.
 
-70
+69
 00:02:48,518 --> 00:02:51,650
 Atom déborde de fonctionnalités
-dès sa première ouverture.
+dès le premier lancement.
 
-71
+70
 00:02:51,650 --> 00:02:54,575
 Mais, comme tout éditeur de texte
 qui vaut son pesant d'ASCII,
 
-72
+71
 00:02:54,575 --> 00:02:56,672
 vous pouvez y ajouter
 des extensions variées,
 
-73
+72
 00:02:56,672 --> 00:03:00,596
 comme des packages utiles
 pour tel ou tel langage
 
-74
+73
 00:03:00,596 --> 00:03:03,527
 ou d'autres pour enrichir l'interface.
 
-75
-00:03:03,530 --> 00:03:06,379
+74
+00:03:03,530 --> 00:03:06,539
 Comme pour les thèmes, 
-Atom propose des packages de base,
+Atom offre plein de packages de base,
 
-76
-00:03:06,379 --> 00:03:08,775
+75
+00:03:06,539 --> 00:03:08,775
 et vous pouvez gérer
 tous ces packages installés
 
-77
-00:03:08,775 --> 00:03:10,526
+76
+00:03:08,775 --> 00:03:10,816
 dans l'onglet Packages.
 
-78
-00:03:10,533 --> 00:03:12,346
+77
+00:03:10,816 --> 00:03:12,346
 Notez que vous pouvez désactiver
 
-79
+78
 00:03:12,346 --> 00:03:14,630
 ou désinstaller complètement
 les packages de base
 
-80
+79
 00:03:14,630 --> 00:03:17,945
-pour vous délester de tout poids superflu
+pour supprimer tout poids superflu
 risquant de vous ralentir.
 
-81
+80
 00:03:17,945 --> 00:03:19,351
 Outre les packages de départ,
 
-82
+81
 00:03:19,351 --> 00:03:22,061
 il y a plus de 2000 packages
 créés par les utillisateurs
 
-83
+82
 00:03:22,061 --> 00:03:24,271
 et mis à disposition
 par la communauté Atom.
 
-84
-00:03:24,271 --> 00:03:26,246
-Allez sur Install pour trouver le package
+83
+00:03:24,271 --> 00:03:26,296
+À l'onglet « Install », trouvez le package
 
-85
-00:03:26,246 --> 00:03:29,318
-vous proposant la fonctionnalité unique
+84
+00:03:26,296 --> 00:03:29,318
+offrant cette fonctionnalité en plus
 que vous cherchez.
 
-86
-00:03:29,318 --> 00:03:32,616
+85
+00:03:29,318 --> 00:03:32,896
 Si vous recherchez un éditeur de texte
 convivial et prêt à l'emploi
 
+86
+00:03:32,896 --> 00:03:36,522
+ou un environnement où gérer vous-même
+votre propre expérience,
+
 87
-00:03:32,616 --> 00:03:36,402
-ou un environnement où vous pouvez gérer
-vous-même votre propre expérience,
+00:03:36,522 --> 00:03:38,654
+Atom a tout ce qu'il vous faut.
 
 88
-00:03:36,402 --> 00:03:38,504
-Atom est ce qu'il vous faut.
+00:03:39,034 --> 00:03:41,375
+Après tout, Atom n'est pas
+qu'un éditeur de texte :
 
 89
-00:03:38,504 --> 00:03:41,375
-Atom n'est pas qu'un éditeur de texte,
-
-90
 00:03:41,379 --> 00:03:43,317
-C'est votre éditeur de texte.
+C'est « votre » éditeur de texte.
