@@ -1,5 +1,5 @@
 1
-00:00:00,289 --> 00:00:04,452
+00:00:03,547 --> 00:00:05,354
 [Git Merge 2013]
 
 2
@@ -13,32 +13,32 @@ chargée de la formation à GitHub.
 
 4
 00:00:10,611 --> 00:00:14,142
-Je veux vous parler quelques minutes,
+Ce dont je vais vous parler,
 - et la transition était géniale, -
 
 5
 00:00:14,142 --> 00:00:17,587
-de l'état de l'enseignement
+c'est de l'état de l'enseignement
 de Git dans le monde.
 
 6
 00:00:17,587 --> 00:00:21,918
-J'ai donné environ 1000 à 1200 formations
-ces cinq dernières années.
+J'ai fait entre 1000 et 1200 formations
+au cours des cinq dernières années.
 
 7
 00:00:21,918 --> 00:00:25,984
-Je connais un bon nombre d'entre vous
-et vos entreprises où j'ai été formateur.
+Je connais un bon nombre d'entre vous,
+j'ai enseigné parfois dans vos entreprises
 
 8
 00:00:25,984 --> 00:00:27,581
-Et c'est un boulot merveilleux,
+et c'est un boulot merveilleux,
 
 9
 00:00:27,581 --> 00:00:31,322
-soutenu par un gros travail
-de la part de la communauté bénévole.
+rendu possible grâce à un gros travail
+de la communauté bénévole.
 
 10
 00:00:31,322 --> 00:00:34,830
@@ -47,90 +47,89 @@ On a vu un truc cool que j'ai découvert.
 
 11
 00:00:34,830 --> 00:00:37,523
-Mais je vais vous présenter
-mes découvertes moi aussi
+Je vais vous présenter
+mes découvertes à moi aussi,
 
 12
 00:00:37,523 --> 00:00:40,401
-au cas où ça vous sert
+des fois que ça vous serve
 dans votre travail avec Git
 
 13
 00:00:40,401 --> 00:00:43,098
 et pour vos formations internes
-à votre entreprise,
+dans votre entreprise,
 
 14
-00:00:43,098 --> 00:00:47,836
-aussi pour voir si on peut améliorer ça
-pour un meilleur usage dans le futur.
+00:00:43,098 --> 00:00:47,396
+pour voir enfin quelles améliorations
+pourraient en faciliter l'usage.
 
 15
-00:00:47,836 --> 00:00:53,179
+00:00:48,396 --> 00:00:53,179
 Au fil de mes formations en entreprise
 et mes réflexions sur GitHub,
 
 16
 00:00:53,179 --> 00:00:57,182
-je forme surtout aux bases d'amélioration
-du développement logiciel,
+j'enseigne essentiellement les bases
+d'un meilleur développement logiciel.
 
 17
 00:00:57,182 --> 00:00:59,957
-c'est un point-clé sur lequel
+C'est un point-clé sur lequel
 je veux vous faire réfléchir.
 
 18
 00:00:59,957 --> 00:01:03,756
-Face à l'enseignement de Git,
-notre communauté a des idées très arrêtées
+En tant que formateur, on se confronte
+à une communauté aux idées très arrêtées
 
 19
 00:01:03,756 --> 00:01:07,296
 sur la bonne façon d'améliorer
-le développement logiciel.
+le développement logiciel :
 
 20
 00:01:07,296 --> 00:01:10,417
-Des messages de commit impeccables,
-de petits commits atomisés.
+messages de commit impeccables,
+petits commits atomisés.
 
 21
 00:01:10,417 --> 00:01:12,951
 Nous nous enorgueillissons
-de la qualité de notre code
+d'avoir un code de qualité,
 
 22
 00:01:12,951 --> 00:01:16,195
-car pourquoi pousser du mauvais code
+car, pourquoi pousser du mauvais code
 alors qu'on peut le rebaser
 
 23
 00:01:16,195 --> 00:01:18,955
-et le modifier en local avec ajouts
-sur une branche privée
+et le modifier ou compléter en local
+sur une branche perso
 
 24
 00:01:18,955 --> 00:01:20,544
-avant de pousser sur master ?
+avant de le pousser sur master ?
 
 25
-00:01:20,544 --> 00:01:22,685
-Bref, il est très intéressant qu'un outil
+00:01:20,544 --> 00:01:21,795
+Il est intéressant de voir
 
 26
-00:01:22,685 --> 00:01:25,491
-ait pu impacter la qualité
-du développement logiciel
+00:01:21,795 --> 00:01:25,641
+que notre outil a eu un impact
+sur la qualité du développement logiciel
 
 27
-00:01:25,491 --> 00:01:27,476
-et ceux qui travaillent dans ce secteur.
+00:01:25,641 --> 00:01:27,476
+et sur ceux qui y travaillent.
 
 28
 00:01:27,476 --> 00:01:29,640
-Concernant l'enseignement
-et la formation,
+Concernant l'enseignement et la formation,
 
 29
 00:01:29,640 --> 00:01:33,710
@@ -144,8 +143,8 @@ car, quand je demande,
 
 31
 00:01:37,095 --> 00:01:40,265
-on me jette alors un regard,
-Scott, ou PJ, ou Tom,
+on me jette un regard, - 
+Scott, ou P.-J., ou Tom, -
 
 32
 00:01:40,265 --> 00:01:42,893
@@ -154,8 +153,8 @@ Pourquoi tu demandes ? »
 
 33
 00:01:42,893 --> 00:01:47,501
-C'est une partie géniale dans mon boulot
-que je n'ai jamais connue auparavant.
+C'est un aspect génial de mon boulot
+que je n'avais encore jamais connu.
 
 34
 00:01:47,501 --> 00:01:50,295
@@ -175,21 +174,21 @@ sous licence CC BY.
 Pas de -NC. Aucun ajout piège.
 
 38
-00:01:59,576 --> 00:02:01,951
+00:01:59,576 --> 00:02:01,621
 Simplement CC BY. Contribuez.
 
 39
-00:02:01,951 --> 00:02:05,162
-Les gens envoient sans arrêt à ces dépôts
-des patch et pull request.
+00:02:01,621 --> 00:02:05,162
+Les gens ne cessent d'envoyer des patchs
+et pull requests à ces dépôts.
 
 40
 00:02:05,162 --> 00:02:07,071
-Et j'aimerais y voir vos contributions !
+J'aimerais y voir vos propres ajouts !
 
 41
 00:02:07,071 --> 00:02:10,547
-C'est conçu comme un partage
+C'est une sorte de curation
 de supports de cours pour Git.
 
 42
@@ -227,25 +226,25 @@ Il est sur teach.github.com
 49
 00:02:28,221 --> 00:02:31,937
 et nous sommes toujours ouverts
-aux transpositions et aux correctifs.
+aux utilisations et aux correctifs.
 
 50
 00:02:31,937 --> 00:02:34,080
 Il fonctionne entièrement
-depuis le navigateur
+depuis le navigateur,
 
 51
-00:02:34,080 --> 00:02:36,328
-ce qui évite le bazar
-PowerPoint, Keynote, etc.
+00:02:34,080 --> 00:02:36,378
+ça évite tout le bazar
+PowerPoint, Keynote, etc.,
 
 52
-00:02:36,328 --> 00:02:38,370
+00:02:36,378 --> 00:02:38,370
 dont je me passe depuis quatre mois.
 
 53
 00:02:38,370 --> 00:02:40,321
-Il se découpe en jolies séquences brèves
+Ça se découpe en jolies sections courtes
 
 54
 00:02:40,321 --> 00:02:45,122
@@ -283,12 +282,12 @@ vous direz peut-être :
 
 61
 00:03:08,931 --> 00:03:11,817
-« Je n'enseigne pas en continu.
-Ça me stresse, Matthew !
+« Je n'enseigne pas tout le temps,
+Matthew ! Ça me stresse,
 
 62
 00:03:11,817 --> 00:03:16,728
-Et j'ai oublié ce que je doit dire
+j'oublie ce que je dois dire
 sur les notes, sur ref log ! », etc.
 
 63
@@ -311,25 +310,25 @@ Le panneau Contrôle est bien fait.
 
 67
 00:03:28,369 --> 00:03:30,285
-Et quelqu'un vous sort, tout dynamique :
+Puis, quelqu'un vous sort d'un coup :
 
 68
 00:03:30,285 --> 00:03:33,790
-« Vous n'allez pas parler
-des commits aujourd'hui ? »
+« J'espérais que vous parleriez
+des commits aujourd'hui ! »
 
 69
 00:03:33,790 --> 00:03:36,125
-alors vous cliquez
+Vous cliquez alors
 sur cette note et enchaînez :
 
 70
 00:03:36,125 --> 00:03:38,710
-« Pourquoi ? C'est mon sujet suivant ! »
+« C'est justement mon sujet suivant ! »
 
 71
 00:03:38,710 --> 00:03:41,846
-Et vous excellez comme formateur pro
+Et vous avez l'air d'un formateur pro
 dans votre propre entreprise.
 
 72
@@ -340,7 +339,7 @@ si vous l'utilisez.
 73
 00:03:44,047 --> 00:03:47,240
 Si vous voulez explorer,
-cliquez sur Escape.
+cliquez sur Esc/Échap.
 
 74
 00:03:47,240 --> 00:03:52,294
@@ -353,586 +352,595 @@ Il y a des supports pour environ
 18 h de formation,
 
 76
-00:03:55,357 --> 00:03:59,579
-de quoi vous achever si vous voulez
-enseigner Git aussi longtemps.
+00:03:55,357 --> 00:03:57,188
+bref, de quoi vous achever
 
 77
+00:03:57,188 --> 00:03:59,579
+si vous voulez enseigner Git
+aussi longtemps.
+
+78
 00:03:59,579 --> 00:04:03,156
 Mais c'est assez pour couvrir les niveaux 
 basique, intermédiaire et avancé.
 
-78
+79
 00:04:03,156 --> 00:04:06,436
 Je répète, ces supports sont utilisés
 pour des formations pro payantes
 
-79
+80
 00:04:06,436 --> 00:04:09,822
 mais le truc cool, c'est que c'est conçu
 pour la communauté avant tout,
 
-80
+81
 00:04:09,822 --> 00:04:13,479
 et pour enseigner Git n'importe où.
 Licence CC BY ! Profitez-en !
 
-81
+82
 00:04:13,479 --> 00:04:16,399
-Je vais vous montrer quelques trucs
+Je veux vous montrer quelques trucs
 qui présentent super bien
 
-82
+83
 00:04:16,399 --> 00:04:18,919
 pour vous donner des idées
 de publics possibles.
 
-83
+84
 00:04:18,919 --> 00:04:21,781
 Vous pensez peut-être
 aux programmeurs, aux développeurs,
 
-84
+85
 00:04:21,781 --> 00:04:24,605
 le genre de public habituel
 que vous imaginez devant vous
 
-85
+86
 00:04:24,605 --> 00:04:26,173
 pour une formation à Git usuelle.
 
-86
+87
 00:04:26,173 --> 00:04:29,315
 Mais voici Jessica Roll,
 la coordinatrice des formations à GitHub.
 
-87
+88
 00:04:29,315 --> 00:04:31,867
 Elle n'est pas programmeuse,
-ne sait pas coder,
+n'a pas appris à coder,
 
-88
+89
 00:04:31,867 --> 00:04:34,827
 elle est avant tout
 du monde du recrutement
 
-89
+90
 00:04:34,827 --> 00:04:37,407
 et nous assiste souvent
 dans nos missions de formation.
 
-90
+91
 00:04:37,407 --> 00:04:40,306
 Elle possède maintenant
 plusieurs dépôts sur GitHub
 
-91
+92
 00:04:40,306 --> 00:04:45,380
 et elle m'a dit récemment : « C'est bon !
 Je sais faire un pull request ! »
 
-92
+93
 00:04:45,380 --> 00:04:48,016
-Et moi, j'était là : oh, mon Dieu !
+Et moi, j'étais là : oh, mon Dieu !
 C'est merveilleux !
 
-93
+94
 00:04:48,016 --> 00:04:50,505
 Quelqu'un qui n'est pas
 du milieu de la programmation
 
-94
+95
 00:04:50,505 --> 00:04:53,528
 et qui dit : je connais, merci.
 J'ai suivi deux fois le cours.
 
-95
+96
 00:04:53,528 --> 00:04:56,679
 Mais ce que je découvre,
 c'est qu'elle est maintenant fascinée
 
-96
-00:04:56,679 --> 00:04:59,009
-par l'utilisation de la 3D
-pour promouvoir GitHub.
-
 97
-00:04:59,009 --> 00:05:02,119
-Alors, elle se laisse distraire
-par tout ce qui brille désormais :
+00:04:56,679 --> 00:04:59,009
+par la possibilité
+de visualiser la 3D sur GitHub,
 
 98
-00:05:02,119 --> 00:05:06,103
-« Oh, c'est génial ! On pourrait pas
-DIF3D des trucs ? », nous a-t-elle sorti.
+00:04:59,009 --> 00:05:01,799
+alors elle se laisse distraire
+par des trucs tape-à-l'œil :
 
 99
+00:05:01,799 --> 00:05:06,103
+« C'est géant ! Il faudrait pouvoir faire
+des git-diff sur la 3D », a-t-elle sorti.
+
+100
 00:05:06,103 --> 00:05:09,947
 Et soudain, voilà des expérimentations
 pour du 3D diffing qui arrivent.
 
-100
-00:05:09,947 --> 00:05:12,370
-Mais, outre notre travail,
-je veux vous montrer
-
 101
-00:05:12,370 --> 00:05:15,894
-au moins une autre application
-dont je n'ai encore vu aucune démo ici.
+00:05:09,947 --> 00:05:11,148
+Mais, outre notre travail,
 
 102
-00:05:15,894 --> 00:05:20,861
-C'est un autre chouette outil de formation
-qui est similaire à ce que nous avons vu.
+00:05:11,148 --> 00:05:13,650
+je veux vous montrer
+au moins une autre application
 
 103
+00:05:13,650 --> 00:05:15,894
+pour laquelle je n'ai vu encore
+aucune démo ici,
+
+104
+00:05:15,894 --> 00:05:20,861
+un autre outil de formation assez chouette
+qui est similaire à ce que nous avons vu.
+
+105
 00:05:20,861 --> 00:05:24,586
 Il a été créé par Peter Cottle,
 qui en a donné un aperçu l'an dernier.
 
-104
+106
 00:05:24,586 --> 00:05:27,525
 Voici une petite démo
 en quelque sorte de sa part.
 
-105
+107
 00:05:27,525 --> 00:05:31,009
 Il l'a conçu en open source
 dans le cadre d'un projet diplômant.
 
-106
+108
 00:05:31,009 --> 00:05:34,523
 Vous pouvez faire des trucs
 comme git checkout
 
-107
+109
 00:05:34,523 --> 00:05:37,124
 en tapant la commande ici,
 ... Test 1.
 
-108
+110
 00:05:37,124 --> 00:05:39,861
 ... Très similaire à ce que
 nous avons déjà vu...
 
-109
+111
 00:05:39,861 --> 00:05:43,473
 Je peux faire un git commit,
 ajouter une note ici.
 
-110
+112
 00:05:43,473 --> 00:05:47,082
 Je peux revenir à git checkout
 
-111
+113
 00:05:47,082 --> 00:05:50,354
 et à la branche master
 pour un instant.
 
-112
+114
 00:05:50,354 --> 00:05:53,358
 Et je peux refaire
 un git commit sur celle-ci,
 
-113
+115
 00:05:53,358 --> 00:05:56,243
 et c'est alors représenté
 par ces deux nœuds
 
-114
-00:05:56,243 --> 00:05:59,928
-et ça accompagnera aussi
-vos amend et reset --hard
-
-115
-00:05:59,928 --> 00:06:03,305
-et ça déplace le pointeur,
-c'est cool à voir
-
 116
+00:05:56,243 --> 00:05:59,928
+et ça rend visuels aussi
+vos 'amend' et 'reset --hard'
+
+117
+00:05:59,928 --> 00:06:03,305
+et ça déplace aussi le pointeur,
+c'est assez cool,
+
+118
 00:06:03,305 --> 00:06:07,977
 et ça peut donner du style et du sens
 à l'animation précédente.
 
-117
+119
 00:06:07,977 --> 00:06:13,713
 Git rebase sur Test 1,
 oui, bien sûr, il le fait !
 
-118
+120
 00:06:13,713 --> 00:06:15,852
 Le commit apparaît,
 et de nouveaux hashs,
 
-119
+121
 00:06:15,852 --> 00:06:17,970
 le pointeur calcule et se déplace.
 
-120
+122
 00:06:17,970 --> 00:06:19,966
 Et ces outils me semblent vraiment utiles.
 
-121
+123
 00:06:19,966 --> 00:06:22,692
 Et je suis super heureux
-de voir plus de gens les utiliser
-
-122
-00:06:22,692 --> 00:06:25,138
-au-delà de GitHub
-et de ses contributeurs habituels,
-
-123
-00:06:25,138 --> 00:06:30,319
-car s'il y a plus d'utilisateurs,
-alors les apprenants seront plus nombreux.
+de voir plus de gens là-dessus,
 
 124
-00:06:30,319 --> 00:06:31,741
-Nous avons réellement besoin
+00:06:22,692 --> 00:06:25,138
+au-delà de GitHub
+et ses contributeurs habituels,
 
 125
-00:06:31,741 --> 00:06:34,223
-d'outils et de supports
-de visualisation intéressants
+00:06:25,138 --> 00:06:30,319
+car avec de plus en plus d'utilisateurs,
+ça nous fait plus de publics à former.
 
 126
-00:06:34,223 --> 00:06:36,580
-qui ne soient pas seulement
-des séries de diapos :
+00:06:30,319 --> 00:06:34,641
+Mais nous avons alors besoin
+d'outils et supports visuels intéressants,
 
 127
-00:06:36,580 --> 00:06:39,309
+00:06:34,641 --> 00:06:36,640
+pas uniquement des diaporamas :
+
+128
+00:06:36,640 --> 00:06:39,309
 « Je vais vous lire
 la commande suivante... »
 
-128
+129
 00:06:39,309 --> 00:06:41,038
 En général, les gens perdent le fil.
 
-129
-00:06:41,038 --> 00:06:44,884
+130
+00:06:41,038 --> 00:06:45,044
 Alors que ceci retient leur attention
 et les aide à voir ce qui se passe.
 
-130
-00:06:45,204 --> 00:06:47,646
-Maintenant que nous avons mis
-les éléments en place,
-
 131
+00:06:45,204 --> 00:06:47,646
+Maintenant, après cet exposé global,
+
+132
 00:06:47,646 --> 00:06:50,862
 je veux vous montrer encore
 un dernier support
 
-132
+133
 00:06:50,862 --> 00:06:54,000
 pendant que je cherche dans mes onglets,
 ... allons à celui-ci !
 
-133
-00:06:54,000 --> 00:06:58,343
-Nous réalisons aussi des vidéos là-dessus
+134
+00:06:54,000 --> 00:06:56,691
+Nous réalisons aussi
+des vidéos sur ces supports
+
+135
+00:06:56,691 --> 00:06:58,343
 et les distribuons gratuitement.
 
-134
+136
 00:06:58,343 --> 00:07:01,815
 Notre objectif est d'aider les gens
 à être plus efficaces avec Git.
 
-135
+137
 00:07:01,815 --> 00:07:05,532
 Et ce serait sympa de recevoir
-vos suggestions par email ou tweet
+vos suggestions par e-mail ou tweet
 
-136
+138
 00:07:05,532 --> 00:07:09,130
 sur les sujets que vous jugez
 trop lacunaires.
 
-137
+139
 00:07:09,130 --> 00:07:12,080
 Je sais ce que je veux enseigner,
 ainsi que Brent.
 
-138
+140
 00:07:12,080 --> 00:07:16,096
 Mais n'hésitez pas à dire : « Matthew,
 on a beaucoup de mal avec cette partie !
 
-139
-00:07:16,096 --> 00:07:20,589
+141
+00:07:16,096 --> 00:07:20,459
 Est-ce que vous pourriez préparer un truc
 avec de brefs modules de cinq minutes ? »
 
-140
-00:07:20,589 --> 00:07:22,729
+142
+00:07:20,459 --> 00:07:22,729
 Et nous le prendrons en compte.
 
-141
+143
 00:07:22,729 --> 00:07:28,341
 Maintenant que c'est dit, je voulais
-juste encore afficher quelques url.
-
-142
-00:07:28,341 --> 00:07:31,608
-Ce sont les principales url
-que nous utilisons actuellement.
-
-143
-00:07:31,608 --> 00:07:34,040
-Nous sommes en train
-de les réunir en une seule url.
+juste encore afficher quelques URL.
 
 144
-00:07:34,040 --> 00:07:36,954
-Nous répondons à tous les tweets.
-Envoyez-moi sinon un email :
+00:07:28,341 --> 00:07:31,608
+Ce sont les principales URL
+que nous utilisons actuellement.
 
 145
+00:07:31,608 --> 00:07:34,040
+Nous allons les fusionner
+en une seule URL.
+
+146
+00:07:34,040 --> 00:07:36,954
+Nous répondons à tous les tweets.
+Envoyez-moi sinon un e-mail :
+
+147
 00:07:36,954 --> 00:07:39,111
 « Comment enseigner ça
 dans mon entreprise ? »
 
-146
+148
 00:07:39,111 --> 00:07:40,950
 Et nous serons contents de vous aider,
 
-147
+149
 00:07:40,950 --> 00:07:43,334
 sans rétribution,
 pas en tant que consultants,
 
-148
+150
 00:07:43,334 --> 00:07:46,919
 mais car ça a un effet multiplicateur
-sur les formations à Git.
+sur les formations Git.
 
-149
+151
 00:07:46,919 --> 00:07:49,060
-Et nous faisons de notre mieux
+Et nous ferons de notre mieux
 pour vous aider
 
-150
+152
 00:07:49,060 --> 00:07:51,693
 avec des supports et des idées
 sur comment procéder.
 
-151
+153
 00:07:51,693 --> 00:07:54,234
 Si vous voulez discuter
 de formation, d'apprentissage,
 
-152
+154
 00:07:54,234 --> 00:07:56,066
 d'éducation à Git en général,
 
-153
+155
 00:07:56,066 --> 00:07:58,489
 je serai ici toute la journée
 ainsi que demain,
 
-154
+156
 00:07:58,489 --> 00:08:01,636
 je me réjouirai de toute conversation
 que vous souhaitez à ce sujet
 
-155
+157
 00:08:01,636 --> 00:08:04,343
 et on fera peut-être
-des pull requests lors du hack day.
+des pull requests lors du 'hack day'.
 
-156
+158
 00:08:04,343 --> 00:08:07,362
 J'ai vu quelques mains levées.
 J'en ai fini avec ma présentation,
 
-157
+159
 00:08:07,362 --> 00:08:10,544
 mais je prends volontiers les questions,
 j'en vois une au milieu.
 
-158
+160
 00:08:11,651 --> 00:08:15,583
->> Pour les « localiseurs » un peu partout
-qui pensent peut-être à passer à Git :
+>> Pour les localisateurs un peu partout
+qui réfléchissent à passer à Git :
 
-159
+161
 00:08:15,583 --> 00:08:19,721
 connaissez-vous des supports
 qui ne seraient pas en anglais ?
 
-160
+162
 00:08:19,721 --> 00:08:22,939
 >> (Matthew) C'est un peu
 un sujet sensible pour ainsi dire
 
-161
+163
 00:08:22,939 --> 00:08:27,243
 car ces supports ne sont pas bien conçus
 pour de la localisation actuellement.
 
-162
+164
 00:08:27,243 --> 00:08:32,097
 Nous avons des bénévoles
 pour l'allemand, le suédois, l'espagnol,
 
-163
+165
 00:08:32,097 --> 00:08:34,577
 je crois pour l'instant,
-pour rendre cela faisable.
-
-164
-00:08:34,577 --> 00:08:37,584
-Mais nous allons faire un effort
-sur les prochains mois
-
-165
-00:08:37,584 --> 00:08:41,791
-pour mettre ces supports dans un format
-permettant mieux la localisation.
+pour essayer de le faire.
 
 166
-00:08:41,791 --> 00:08:46,168
-Bref, ce que je veux dire avec respect,
-c'est que le temps de chacun est précieux
+00:08:34,577 --> 00:08:37,584
+Mais nous voulons nous efforcer
+ces prochains mois
 
 167
-00:08:46,168 --> 00:08:49,572
+00:08:37,584 --> 00:08:41,791
+de mettre ces supports dans un format
+permettant mieux la localisation.
+
+168
+00:08:41,791 --> 00:08:43,759
+Ce que j'essaie de dire respectueusement,
+
+169
+00:08:43,759 --> 00:08:46,188
+c'est que je ne veux gaspiller
+le temps de personne,
+
+170
+00:08:46,188 --> 00:08:49,572
 et je pense qu'une ou deux étapes
 de restructuration sont nécessaires
 
-168
+171
 00:08:49,572 --> 00:08:52,292
 pour mieux permettre
 une localisation de long terme.
 
-169
+172
 00:08:52,292 --> 00:08:55,414
 Mais je ne connais pas
 beaucoup de supports pour l'instant.
 
-170
+173
 00:08:55,414 --> 00:08:56,845
 Deux participants de la conférence
 
-171
+174
 00:08:56,845 --> 00:09:00,206
 ont déjà fait des formations localisées
 en d'autres langues,
 
-172
+175
 00:09:00,206 --> 00:09:03,476
 mais les supports ne sont peut-être pas
 disponibles là de suite.
 
-173
+176
 00:09:03,476 --> 00:09:05,650
 Mais le livre Pro Git,
 je tiens à souligner,
 
-174
+177
 00:09:05,650 --> 00:09:09,564
 écrit par Scott Chacon,
 est localisé en 13 ou 15 langues.
 
-175
+178
 00:09:09,564 --> 00:09:12,435
 Scott ? C'est bien ça ?
 >> (Scott) Oui.
 
-176
+179
 00:09:12,435 --> 00:09:15,597
 Donc, le livre Pro Git,
-sur le site Git SEM,
+sur le site git-scm,
 
-177
+180
 00:09:15,597 --> 00:09:19,691
 est traduit assez bien,
 en de très nombreuses langues.
 
-178
+181
 00:09:20,911 --> 00:09:25,725
 D'autres questions ? Sinon, je laisse
 le podium à la personne suivante.
 
-179
+182
 00:09:27,763 --> 00:09:30,751
 Okay, ma dernière requête en partant.
 Si vous avez une anecdote
 
-180
+183
 00:09:30,751 --> 00:09:33,051
 sur votre migration vers Git
 ou son apprentissage
 
-181
+184
 00:09:33,051 --> 00:09:34,953
 que vous aimeriez partager
 devant caméra,
 
-182
+185
 00:09:34,953 --> 00:09:37,050
 pourriez-vous voir ça
 comme un investissement
 
-183
+186
 00:09:37,050 --> 00:09:39,442
 au profit des entreprises
 et personnes sceptiques ?
 
-184
+187
 00:09:39,442 --> 00:09:43,114
 C'est méga utile d'entendre,
 même si vous n'êtes pas un orateur :
 
-185
+188
 00:09:43,114 --> 00:09:47,919
 « Nous avons essayé ça, ça a été dur,
-mais au final ça a produit ça. »
+mais ça a produit ça au final. »
 
-186
+189
 00:09:47,919 --> 00:09:50,724
-J'ai eu un témoignage hier soir
-après la présentation de Jen
-
-187
-00:09:50,724 --> 00:09:53,321
+Jen m'en a donné un hier soir
 et je le filme aujourd'hui.
+
+190
+00:09:50,724 --> 00:09:52,651
 Mais c'est tellement génial
 
-188
-00:09:53,321 --> 00:09:57,301
+191
+00:09:52,651 --> 00:09:57,301
 d'entendre l'histoire de votre équipe,
 et comment ça a marché au final.
 
-189
+192
 00:09:57,301 --> 00:09:59,414
 Donc, venez me trouver
 et prenons une caméra.
 
-190
+193
 00:09:59,414 --> 00:10:01,658
 Ce sera hyper utile
 à tous les apprenants de Git
 
-191
+194
 00:10:01,658 --> 00:10:03,428
 avec juste une minute de votre temps.
 
-192
+195
 00:10:03,428 --> 00:10:04,198
 Sur ces mots,
 
-193
+196
 00:10:04,198 --> 00:10:05,288
 Merci.
 
-194
+197
 00:10:05,288 --> 00:10:06,828
 [Applaudissements]
 
-195
+198
 00:10:06,828 --> 00:10:09,518
 [Git Merge 2013]
